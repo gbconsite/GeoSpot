@@ -3,7 +3,7 @@ site_name: GeoSpot!
 nav:
     - Home: index.md
     - WhiteSpot!:
-      - Übersicht: uebersicht.md
+      - Übersicht: uebersicht-whitespot.md
       - Einführung: einfuehrung.md
       - 1. Upload: upload.md
       - 2. Planung: planung.md
@@ -12,7 +12,7 @@ nav:
       - Tipps & Tricks: tipps.md
       - Changelog: changelog.md
     - AreaSpot!:
-      - Übersicht: uebersicht.md
+      - Übersicht: uebersicht-areaspot.md
       - Einführung: einfuehrung.md
       - 1. Upload: upload.md
       - 2. Planung: planung.md
@@ -21,7 +21,7 @@ nav:
       - Tipps & Tricks: tipps.md
       - Changelog: changelog.md
     - GreenSpot!:
-      - Übersicht: uebersicht.md
+      - Übersicht: uebersicht-greenspot.md
       - Einführung: einfuehrung.md
       - 1. Upload: upload.md
       - 2. Planung: planung.md
@@ -30,7 +30,7 @@ nav:
       - Tipps & Tricks: tipps.md
       - Changelog: changelog.md
     - MediaSpot!:
-      - Übersicht: uebersicht.md
+      - Übersicht: uebersicht-mediaspot.md
       - Einführung: einfuehrung.md
       - 1. Upload: upload.md
       - 2. Planung: planung.md
