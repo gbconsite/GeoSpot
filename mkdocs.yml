@@ -2,7 +2,34 @@ site_name: GeoSpot!
 
 nav:
     - Home: index.md
-    - Handbuch:
+    - WhiteSpot!:
+      - Übersicht: uebersicht.md
+      - Einführung: einfuehrung.md
+      - 1. Upload: upload.md
+      - 2. Planung: planung.md
+      - 3. Flotten: flotten.md
+      - 4. Touren: tour.md
+      - Tipps & Tricks: tipps.md
+      - Changelog: changelog.md
+    - AreaSpot!:
+      - Übersicht: uebersicht.md
+      - Einführung: einfuehrung.md
+      - 1. Upload: upload.md
+      - 2. Planung: planung.md
+      - 3. Flotten: flotten.md
+      - 4. Touren: tour.md
+      - Tipps & Tricks: tipps.md
+      - Changelog: changelog.md
+    - GreenSpot!:
+      - Übersicht: uebersicht.md
+      - Einführung: einfuehrung.md
+      - 1. Upload: upload.md
+      - 2. Planung: planung.md
+      - 3. Flotten: flotten.md
+      - 4. Touren: tour.md
+      - Tipps & Tricks: tipps.md
+      - Changelog: changelog.md
+    - MediaSpot!:
       - Übersicht: uebersicht.md
       - Einführung: einfuehrung.md
       - 1. Upload: upload.md
@@ -19,15 +46,6 @@ nav:
       - Getränkelieferungen: getraenkelieferung.md
       - Lieferkisten: lieferkiste.md
       - Gebäudereinigung: gebaeudereinigung.md
-    - API:
-      - MRT! API: api-intro.md
-      - Einführung: ablauf.md
-      - Routen & Endpunkte: routen.md
-      - Beispiele:
-        - Python: mrt-api-python.md
-        - PHP: mrt-api-php.md
-#    - Referenzen: 14.md
-    - Preise: preise.md
     - Impressum: impressum.md
     - Datenschutz: datenschutz.md
 
