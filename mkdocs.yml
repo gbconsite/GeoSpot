@@ -20,8 +20,8 @@ nav:
       - 4. Touren: tour.md
       - Tipps & Tricks: tipps.md
       - Changelog: changelog.md
-    - GreenSpot!:
-      - Übersicht: uebersicht-greenspot.md
+    - MapSpot!:
+      - Übersicht: uebersicht-mapspot.md
       - Einführung: einfuehrung.md
       - 1. Upload: upload.md
       - 2. Planung: planung.md
@@ -81,7 +81,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   icon:  # from .icons path. Add to theme override for custom logo.
-    logo: truck  # top left header logo
+    logo: Lupe  # top left header logo
     repo: fontawesome/brands/git-alt
   favicon: assets/favicon.ico #browser tab logo
 
