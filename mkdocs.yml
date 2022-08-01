@@ -2,7 +2,7 @@ site_name: GeoSpot!
 
 nav:
     - Home: index.md
-    - WhiteSpot!:
+    - Whitespot-Analyse:
       - Übersicht: uebersicht-whitespot.md
       - Einführung: einfuehrung.md
       - 1. Upload: upload.md
@@ -11,7 +11,7 @@ nav:
       - 4. Touren: tour.md
       - Tipps & Tricks: tipps.md
       - Changelog: changelog.md
-    - AreaSpot!:
+    - Bezirksplaner:
       - Übersicht: uebersicht-areaspot.md
       - Einführung: einfuehrung.md
       - 1. Upload: upload.md
@@ -20,7 +20,7 @@ nav:
       - 4. Touren: tour.md
       - Tipps & Tricks: tipps.md
       - Changelog: changelog.md
-    - MapSpot!:
+    - Regio-Analyse:
       - Übersicht: uebersicht-mapspot.md
       - Einführung: einfuehrung.md
       - 1. Upload: upload.md
@@ -29,7 +29,7 @@ nav:
       - 4. Touren: tour.md
       - Tipps & Tricks: tipps.md
       - Changelog: changelog.md
-    - MediaSpot!:
+    - Mediaplaner:
       - Übersicht: uebersicht-mediaspot.md
       - Einführung: einfuehrung.md
       - 1. Upload: upload.md
