@@ -6,6 +6,8 @@
   --table-td-background-even: #f8f8f8;
   --table-td-background-uneven: white; 
   --md-typeset-a-color: #8d8dc4;
+  --md-text-font: "Roboto";
+  --md-code-font: "Roboto Mono"
 }
 
 /* dark mode landing page specific*/
