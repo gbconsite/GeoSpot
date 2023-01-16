@@ -10,6 +10,8 @@ nav:
       - Übersicht: uebersicht-regioanalyse.md
     - Mediaplaner:
       - Übersicht: uebersicht-mediaplaner.md
+    - API:
+      - GeoSpot! API: api-intro.md
     - Impressum: impressum.md
     - Datenschutz: datenschutz.md
 
