@@ -3,49 +3,13 @@ site_name: GeoSpot!
 nav:
     - Home: index.md
     - Whitespot-Analyse:
-      - Übersicht: uebersicht-whitespot.md
-      - Einführung: einfuehrung.md
-      - 1. Upload: upload.md
-      - 2. Planung: planung.md
-      - 3. Flotten: flotten.md
-      - 4. Touren: tour.md
-      - Tipps & Tricks: tipps.md
-      - Changelog: changelog.md
+      - Übersicht: uebersicht-whitespotanalyse.md
     - Bezirksplaner:
-      - Übersicht: uebersicht-areaspot.md
-      - Einführung: einfuehrung.md
-      - 1. Upload: upload.md
-      - 2. Planung: planung.md
-      - 3. Flotten: flotten.md
-      - 4. Touren: tour.md
-      - Tipps & Tricks: tipps.md
-      - Changelog: changelog.md
+      - Übersicht: uebersicht-bezirksplaner.md
     - Regio-Analyse:
-      - Übersicht: uebersicht-mapspot.md
-      - Einführung: einfuehrung.md
-      - 1. Upload: upload.md
-      - 2. Planung: planung.md
-      - 3. Flotten: flotten.md
-      - 4. Touren: tour.md
-      - Tipps & Tricks: tipps.md
-      - Changelog: changelog.md
+      - Übersicht: uebersicht-regioanalyse.md
     - Mediaplaner:
-      - Übersicht: uebersicht-mediaspot.md
-      - Einführung: einfuehrung.md
-      - 1. Upload: upload.md
-      - 2. Planung: planung.md
-      - 3. Flotten: flotten.md
-      - 4. Touren: tour.md
-      - Tipps & Tricks: tipps.md
-      - Changelog: changelog.md
-    - Use Cases:
-      - Spediteur: spediteur.md
-      - Außendienst: aussendienst.md
-      - Schneeräumung: schneeraeumung.md
-      - Essen auf Rädern: essen_auf_raedern.md
-      - Getränkelieferungen: getraenkelieferung.md
-      - Lieferkisten: lieferkiste.md
-      - Gebäudereinigung: gebaeudereinigung.md
+      - Übersicht: uebersicht-mediaplaner.md
     - Impressum: impressum.md
     - Datenschutz: datenschutz.md
 
