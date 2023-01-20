@@ -12,6 +12,7 @@ nav:
       - Übersicht: uebersicht-mediaplaner.md
     - API:
       - GeoSpot! API: api-intro.md
+      - Routen & Endpunkte: routen.md
     - Impressum: impressum.md
     - Datenschutz: datenschutz.md
 
