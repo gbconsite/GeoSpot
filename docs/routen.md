@@ -4,13 +4,13 @@
 
 Die Authentifizierung findet mittels mittels Basic Auth (http://username:password@domain/) statt. 
 
-`domain` steht dabei für die Domain unter der Sie auf GeoSpot! zugreifen. Für die SaaS lautet die Domain <https://geospot.de/>.
+`domain` steht dabei für die Domain unter der Sie auf GeoSpot! zugreifen. Für die SaaS lautet die Domain <https://www.geospot.de/>.
 
 Sie können Ihren Account auch einer Konfigurationsdatei für einen schnelleren und sicheren Login hinterlegen.
 
 ## 1 Abfrage welche Werte zur Verfügung stehen
 
-<https://geospot.de/api/available_values.json>
+<https://www.geospot.de/api/available_values.json>
 
 Bsp. Rückgabe:
 
@@ -35,7 +35,7 @@ Bsp. Rückgabe:
 
 ## 2 Abfrage welche Punkt-Layer zur Verfügung stehen
 
-<https://geospot.de/api/available_layers.json>
+<https://www.geospot.de/api/available_layers.json>
 
 - System Layers, diese Daten kommen von gbconsite
 - Own Layers, diese Daten kommen vom Kunden
@@ -97,7 +97,7 @@ Bsp. Rückgabe:
 
 ## 3 Abfrage zum Standort
 
-<https://geospot.de/api/whitespot_location.json?lat=48.27679550566659&lon=11.574096679687498&radius=3000>
+<https://www.geospot.de/api/whitespot_location.json?lat=48.27679550566659&lon=11.574096679687498&radius=3000>
 
 
 | **Parameter**       | **Beschreibung**                                                                                                                 | **Werte**                   |
@@ -205,7 +205,7 @@ Bsp. Rückgabe:
 }
 ```
 
-<https://geospot.de/api/whitespot_location.json?lat=48.27679550566659&lon=11.574096679687498&radius=3000&all_own_layers=true&all_layers=true>
+<https://www.geospot.de/api/whitespot_location.json?lat=48.27679550566659&lon=11.574096679687498&radius=3000&all_own_layers=true&all_layers=true>
 
 ```json
 {
