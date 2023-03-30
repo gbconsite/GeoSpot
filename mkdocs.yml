@@ -1,4 +1,5 @@
 site_name: GeoSpot!
+site_url: https://www.geospot.de/handbuch/
 
 nav:
     - Home: index.md
