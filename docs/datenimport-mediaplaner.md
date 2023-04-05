@@ -6,7 +6,7 @@ description: Die verschiedenen Möglichkeiten des Datenimports beim Mediaplaner
 
 Es gibt drei Möglichkeiten des Datenimports:
 
-1.	Import eigener Sachdaten (z.B. Abonnenten-Zahlen) mit Referenz zu den Grundlage-Gebieten (in diesem Beispiel Touren), siehe dazu auch [Grundlagen der Belegungsplanung](#grundlagen-planungen-mediaplaner/#grundlagen-der-belegungsplanung)
+1.	Import eigener Sachdaten (z.B. Abonnenten-Zahlen) mit Referenz zu den Grundlage-Gebieten (in diesem Beispiel Touren), siehe dazu auch [Grundlagen der Belegungsplanung](https://www.geospot.de/handbuch/grundlagen-planungen-mediaplaner/#grundlagen-der-belegungsplanung).
 2.	Import von Belegungen
 3.	Import von Filialstandorten als eigene Karten-Layer
 
