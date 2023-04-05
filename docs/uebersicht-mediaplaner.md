@@ -6,6 +6,6 @@ Für Ihre Beilagenkunden können Sie so Zielgruppen-Profile erstellen und auf Kn
 
 Bei Fragen wenden Sie sich an:
 
-Malte Geschwinder
-malte.geschwinder@gbconsite.de
-Telefon: +49 89 / 309 052 972
+**Malte Geschwinder<br>
+[malte.geschwinder@gbconsite.de](mailto:malte.geschwinder@gbconsite.de)<br>
+Telefon: +49 89 / 309 052 972**
