@@ -1,3 +1,3 @@
 # GeoSpot!
 
-[https://geospot.de](https://geospot.de/)
+[https://www.geospot.de](https://www.geospot.de/)
