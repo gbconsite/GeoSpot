@@ -43,7 +43,6 @@ Ein weiteres Element der Karte befindet sich in der unteren rechten Ecke, der Tr
 
 Die Seitenleiste beinhaltet kontextbezogen die verschiedenen Funktionen der Beilagenplanung.
 
-![grafik](https://user-images.githubusercontent.com/99329016/230010656-729ee593-9c14-4f57-9ff9-f1d7a04779f1.png)
 :material-map:
   Analysemodus mit Zielgruppenfilter und automatischer Belegung
 
