@@ -1,3 +1,7 @@
+---
+description: Einleitung und Aufbau des Mediaplaners für die Verlage zur Planung von Belegungseinheiten und weiteren Gebieten
+---
+
 # Übersicht
 
 Auf Basis Ihrer eigenen Gebietseinheiten (bspw. Trägerbezirke, Belegungseinheiten, Touren etc.) finden Analysen und Planungen statt.
