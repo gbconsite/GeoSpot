@@ -1,6 +1,6 @@
 ---
 description: Bearbeiten von Belegungen im Mediaplaner
---
+---
 
 # Bearbeiten von Belegungen
 
