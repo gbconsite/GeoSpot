@@ -9,19 +9,19 @@ Für eine Planung mit dem WhiteSpot! Mediaplanungstool gibt es grundsätzlich dr
 ### Mediaplanung mit der Analyse zum Filtern nach Zielgruppen
 
 Diese Methode dient dem Zweck, besonders geeignete Gebiete für bestimmte Zielgruppen zu finden und zu speichern.
-Auf der linken Seite in der Seitenleiste finden Sie im Analyse-Modus (![grafik](https://user-images.githubusercontent.com/99329016/230013708-60e13fb7-3b40-4797-a925-a30030faa710.png)) nach einem Klick auf Werte eine Auswahl an Daten, die wir für Sie laut unserem Datenkatalog im Mediaplanungstool als normierte Scores und Werte bereitstellen. Darunter befinden sich unter Umständen auch von Ihnen bereitgestellte Daten (z.B. Anzahl der Abonnenten)
+Auf der linken Seite in der Seitenleiste finden Sie im Analyse-Modus (:material-map:) nach einem Klick auf Werte eine Auswahl an Daten, die wir für Sie laut unserem Datenkatalog im Mediaplanungstool als normierte Scores und Werte bereitstellen. Darunter befinden sich unter Umständen auch von Ihnen bereitgestellte Daten (z.B. Anzahl der Abonnenten)
 
 ![grafik](https://user-images.githubusercontent.com/99329016/230013792-f9ce3579-0c0e-4d95-8ef6-0297682f2e2f.png)
 
 
 Die Schieberegler ermöglichen Ihnen eine einfache Gewichtung dieser Daten. Also bspw. kann der Fokus besonders auf eine bestimmte Altersgruppe gelegt werden oder auf die Affinität für Fitness/Wellness etc. oder auf eine hohe Kaufkraft. Die Daten können auch in Kombination abgefragt werden.
 
-Ein Klick auf den i-Button zeigt Ihnen den Durchschnittswert in Ihrem Verbreitungsgebiet an (o-der klicken Sie im Hauptmenü auf *Score Info*, um die Werteskala für alle Scores zu sehen). So können Sie bei einer Skala von 1-10 sehr kleinräumig die Unterschiede und Ausprägungen zwischen den einzelnen Gebieten erkennen. Die Schieberegler sind standardmäßig so eingestellt, dass alle Gebiete im und über dem Durchschnitt angezeigt werden.
+Ein Klick auf den i-Button zeigt Ihnen den Durchschnittswert in Ihrem Verbreitungsgebiet an (oder klicken Sie im Hauptmenü auf *Score Info*, um die Werteskala für alle Scores zu sehen). So können Sie bei einer Skala von 1-10 sehr kleinräumig die Unterschiede und Ausprägungen zwischen den einzelnen Gebieten erkennen. Die Schieberegler sind standardmäßig so eingestellt, dass alle Gebiete im und über dem Durchschnitt angezeigt werden.
 
 Sie können die gewählte Einstellung einfach als Analyseprofil speichern, indem Sie einen Namen im Feld *Neuer Name* eingeben und auf Neues Profil klicken. Dieses Profil können Sie dann später aus der Profilliste auswählen.
 
 Durch den Klick auf *Karte aktualisieren* werden nun nur noch die Bereiche in der Karte angezeigt, die Ihren gefilterten Merkmalen entsprechen. Die Polygone der Touren, die nicht in diese Ausprägung fallen, verschwinden.
-In der dazugehörigen Karte erscheinen nur die herausgefilterten 36 Gebiete von 95 insgesamt. Über das Druckersymbol 🖨️ können Sie optional ein PDF der angezeigten Karte erzeugen. 
+In der dazugehörigen Karte erscheinen nur die herausgefilterten 36 Gebiete von 95 insgesamt. Über das Druckersymbol :material-printer: können Sie optional ein PDF der angezeigten Karte erzeugen. 
  
 ![grafik](https://user-images.githubusercontent.com/99329016/230014334-a6452e87-e5cb-43d4-81b3-4b68be8386ae.png)
 
@@ -29,9 +29,9 @@ In der Seitenleiste springt die Darstellung nach dem Klick auf *Karte aktualisie
 
 ![grafik](https://user-images.githubusercontent.com/99329016/230014486-1fb12113-e782-4334-aeed-bb026b7640e5.png)
 
-Sie können diese nach Filterkriterien ermittelte Belegung eines Kunden nun abspeichern, indem Sie sie der aktuell geplanten Belegung mit der entsprechenden Option hinzufügen oder diese er-setzen (*Gefilterte Gebiete als neue Bezirksdefinition*).
+Sie können diese nach Filterkriterien ermittelte Belegung eines Kunden nun abspeichern, indem Sie sie der aktuell geplanten Belegung mit der entsprechenden Option hinzufügen oder diese ersetzen (*Gefilterte Gebiete als neue Bezirksdefinition*).
 
-Mit einem Klick auf Speichern schließen Sie diese Aktion ab und die Belegung ist gespeichert.
+Mit einem Klick auf *Speichern* schließen Sie diese Aktion ab und die Belegung ist gespeichert.
 
 Sie können diese gespeicherte Belegung im nächsten Schritt nun mit der zweiten und folgenden Methode anpassen oder verfeinern.
 
@@ -39,7 +39,7 @@ Sie können diese gespeicherte Belegung im nächsten Schritt nun mit der zweiten
 
 ### Mediaplanung mit manueller Zuordnung von Belegungseinheiten
 
-Klicken Sie zunächst in der Seitenleiste auf das Weltkugel-Symbol 🌐. Sie befinden sich nun im manuellen Modus. Dieser Modus nennt sich *Mediaplanung Kundenbezirke*.
+Klicken Sie zunächst in der Seitenleiste auf das Weltkugel-Symbol :material-earth:. Sie befinden sich nun im manuellen Modus. Dieser Modus nennt sich *Mediaplanung Kundenbezirke*.
 
 ![grafik](https://user-images.githubusercontent.com/99329016/230017525-566ac902-8e32-47a2-8384-621051469658.png)
 
@@ -58,11 +58,14 @@ Erst jetzt können Sie mit der Neuanlage oder Bearbeitung der Belegung beginnen.
 Durch einen Klick auf Auswahl aufheben ist die Belegung nicht mehr aktiv und somit auch vor der versehentlichen Bearbeitung geschützt.
 
 Nun können Sie der Belegung entweder weitere Gebiete hinzufügen oder auch bereits zugeordnete entfernen. Hierzu gibt es zwei verschiedene Modi:
+
 1.	Ein-Klick Nodus (Single-Modus)
 2.	Mehrfach-Modus (Batch-Modus)
 
+
 #### Single-Modus
 Bitte beachten Sie, dass für die folgenden Schritte die Layer *Gebiete* und *Bezirke* eingeschaltet sein müssen.
+
 ![grafik](https://user-images.githubusercontent.com/99329016/230019119-bde9398e-385f-4a27-95e4-ffeacd784c67.png)
 
 Im Single Modus können Sie Gebiet für Gebiet anklicken und bei ausgewählter Belegung (erkennbar an der blauen Einfärbung der Gebiete) die Zuordnung der Gebiete zu der Belegung herstellen („*Mit Bezirk xy verknüpfen*“) oder löschen („*Verknüpfung mit Gebiet xy löschen*“).
@@ -76,16 +79,19 @@ Dies ist insbesondere hilfreich, wenn man eine zielgruppenorientierte Belegung v
  
 #### 	Batch-Modus
 Bitte beachten Sie, dass für die folgenden Schritte die Layer *Gebiete* und *Bezirke* eingeschaltet sein müssen.
+
 ![grafik](https://user-images.githubusercontent.com/99329016/230019515-0bd6d811-6a0b-4fed-a65f-2b85b90f4d89.png)
 
 Im Unterschied zum *Single-Modus* können Sie im Batch-Modus einfach mehrere Gebiete gleichzeitig einer Belegung zuordnen.
 Aktivieren Sie einfach die Funktion *Zuordnung durch Klick auf Gebiet (Batch-Modus)* und klicken dann in der Karte mehrere Gebiete nacheinander an.
 Die angeklickten Gebiete verfärben sich daraufhin weiß und deren Gebietsbezeichnung (hier: Touren) taucht in der Seitenleiste unter *Ausgewählte Gebiete* auf:
+
 ![grafik](https://user-images.githubusercontent.com/99329016/230019727-090c599a-2c71-41fe-8ff4-471d2307ace7.png)
 
 Durch einen weiteren Klick auf *Zuordnung Speichern* werden dann alle weiß eingefärbten Gebiete Bestandeil der Belegung.
 
 Das Entfernen von Gebieten aus der Belegung erfolgt analog:
+
 Aktivieren Sie einfach die Funktion *Löschen der Zuordnung durch Klick auf Gebiet (Batch-Modus)* und klicken dann in der Karte mehrere Gebiete nacheinander an.
 Die angeklickten Gebiete verfärben sich daraufhin schwarz und deren Gebietsbezeichnung (hier: Touren) taucht in der Seitenleiste unter *Ausgewählte Gebiete* auf. Durch einen weiteren Klick auf *Zuordnung Löschen* werden dann alle schwarz eingefärbten Gebiete aus der Belegung entfernt.
 
@@ -94,12 +100,12 @@ Die sich aus diesen Bearbeitungsschritten ergebende Belegung können Sie auch we
  
 ### Mediaplanung mit Fahrzeiten oder Radien
 
-Die dritte Möglichkeit, Gebiete (in unserem Beispiel Touren) einer Belegung zuzuordnen, besteht in der Ermittlung von Fahrzeitzonen nach Minuten oder zentrischen Kreisen nach Luftlinienradi-us. Um diese Funktionen nutzen zu können, müssen Sie sich im Analyse-Modus (![grafik](https://user-images.githubusercontent.com/99329016/230020450-ada737e8-cdab-4e20-bd70-b0392201d031.png)) befinden und eine beliebige Zielgruppenauswahl vorgenommen haben (siehe [Mediaplanung mit der Analyse zum Filtern nach Zielgruppen](#mediaplanung-mit-der-analyse-zum-filtern-nach-zielgruppen)).
+Die dritte Möglichkeit, Gebiete (in unserem Beispiel Touren) einer Belegung zuzuordnen, besteht in der Ermittlung von Fahrzeitzonen nach Minuten oder zentrischen Kreisen nach Luftlinienradi-us. Um diese Funktionen nutzen zu können, müssen Sie sich im Analyse-Modus (:material-map:) befinden und eine beliebige Zielgruppenauswahl vorgenommen haben (siehe [Mediaplanung mit der Analyse zum Filtern nach Zielgruppen](#mediaplanung-mit-der-analyse-zum-filtern-nach-zielgruppen)).
 Sie können entweder auf ein Element eines Punktlayers (z.B. einen Filialstandort) oder auf eine beliebige andere Stelle in der Karte klicken und können so die Frage beantworten „welche Touren liegen in einer Fahrzeit von x Minuten rund um diesen Standort?“:
 
 ![grafik](https://user-images.githubusercontent.com/99329016/230020720-3bdb72e4-b8e2-4786-966c-55c8ed107fc6.png)
 
-Tragen Sie in die entsprechenden Felder entweder einen Radius in Metern oder eine Fahrzeitzone in Minuten ein und klicken m Falle der Fahrzeitzone auf dieses :material-arrow-right-top-bold: Symbol, um die Fahrzeitzone zu berechnen. Anschließen wird der Kreis oder die Fahrzeitzone auf der Karte angezeigt, wobei die Fahrzeitzone automatisch gespeichert und durch das  ![grafik](https://user-images.githubusercontent.com/99329016/230021311-ea8f381c-0c7a-4825-a8c8-620a14f7fdd9.png) Symbol gekennzeichnet wird (der Klick auf dieses Symbol öffnet den folgenden Dialog), Löschen der Fahrzeitzone durch Klick auf :fontawesome-solid-trash-can: ):
+Tragen Sie in die entsprechenden Felder entweder einen Radius in Metern oder eine Fahrzeitzone in Minuten ein und klicken m Falle der Fahrzeitzone auf dieses :material-arrow-right-top-bold: Symbol, um die Fahrzeitzone zu berechnen. Anschließen wird der Kreis oder die Fahrzeitzone auf der Karte angezeigt, wobei die Fahrzeitzone automatisch gespeichert und durch das ![grafik](https://user-images.githubusercontent.com/99329016/230021311-ea8f381c-0c7a-4825-a8c8-620a14f7fdd9.png) Symbol gekennzeichnet wird (der Klick auf dieses Symbol öffnet den folgenden Dialog), Löschen der Fahrzeitzone durch Klick auf :fontawesome-solid-trash-can: ):
 
 ![grafik](https://user-images.githubusercontent.com/99329016/230021474-0a6a1133-da76-422d-9dc6-4e43743fd839.png)
  
@@ -114,9 +120,10 @@ Die Verfahrensweise bei einem Kreis erfolgt analog, wobei im obigen Beispiel gut
 Letztere berücksichtigt auch topographische Barrieren wie in diesem Fall den Fluss Weser, der dazu führt, dass die Touren südlich des Netto-Marktes nicht in der 5-minütigen Erreichbarkeit liegen und von es daher südlich der Weser deutlich weniger Kunden geben wird und insofern eine Belegung auch gar nicht sinnvoll ist.
 
 Die Auswahl dieser acht Gebiete (Touren) kann nun zur Belegung hinzugefügt werden, indem in der Seitenleiste auf Speichern geklickt wird. Weitere Einstellungen sind nicht nötig und können so belassen werden:
+
 ![grafik](https://user-images.githubusercontent.com/99329016/230021855-6263408e-f330-4c89-b5ca-833f2831f425.png)
 
-Nun können Sie dieses Vorgehen für beliebig viele Filialen wiederholen bzw. fortsetzen und abschließend die Belegung manuell erweitern, reduzieren oder anderweitig anpassen. Siehe hierzu auch Kapitel 3.2	Mediaplanung mit manueller Zuordnung von Belegungseinheiten ####.
+Nun können Sie dieses Vorgehen für beliebig viele Filialen wiederholen bzw. fortsetzen und abschließend die Belegung manuell erweitern, reduzieren oder anderweitig anpassen. Siehe hierzu auch [Mediaplanung mit manueller Zuordnung von Belegungseinheiten](#mediaplanung-mit-manueller-zuordnung-von-belegungseinheiten).
 
 
 ### Exportieren der Belegung
@@ -130,6 +137,6 @@ Wenn Sie *Bezirke* wählen, dann erhalten Sie eine Tabelle mit den aufsummierten
 
 ### Kartendruck
 
-Über das Druckersymbol 🖨️ in der Seitenleiste können Sie die aktuelle Kartenansicht als PDF Dokument drucken.
+Über das Druckersymbol :material-printer: in der Seitenleiste können Sie die aktuelle Kartenansicht als PDF Dokument drucken.
 
  
