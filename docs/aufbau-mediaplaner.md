@@ -21,30 +21,36 @@ Die **Aktuelle Planung** ist immer ein Zusammenstellung Ihrer Trägerbezirke / B
 ![grafik](https://user-images.githubusercontent.com/99329016/230008196-d95d56e5-4ebe-4847-9413-a36b2fbc3e92.png)
 Im Kartenfenster finden Sie oben links Elemente zum **Zoomen** (Vergrößern mit Plus, Verkleinern mit Minus) und zum **Messen von Entfernungen** (Lineal)
 
+Oben rechts finden Sie das Eingabefeld für die **Kartensuche**.
+
 ![grafik](https://user-images.githubusercontent.com/99329016/230008221-7a2f01e7-57d5-41b5-8ada-4b20000c67c6.png)
 
-Oben rechts finden Sie das Eingabefeld für die **Kartensuche**.
 Diese Suche ist vergleichbar zur Google-Maps-Suche und findet neben Adressen auch Points of Interest (POIs).
 Die Type-Ahead-Suchergebnisse sind klickbar und die Karte zoomt in die entsprechende Region, sobald ein Suchergebnis angeklickt wurde.
 
+
 ![grafik](https://user-images.githubusercontent.com/99329016/230008491-e845c666-8649-417e-998e-2938e4f7d35d.png)
+
 Unterhalb der Suche befindet sich die Layersteuerung. Mithilfe der **Layersteuerung** können die verschiedenen Kartenebenen ein- und ausgeschaltet und es kann zwischen verschiedenen Kar-tengrundlagen (Karten und Luftbilder) umgeschaltet werden.
 Die Layersteuerung öffnet sich, wenn Sie mit der Maus darüberfahren. Dann können Sie per Klick einzelne Layer ein- aus- oder umschalten.
 
 ![grafik](https://user-images.githubusercontent.com/99329016/230008555-e11b5afa-9554-4850-8ead-5533c61bae82.png)
+
 Ein weiteres Element der Karte befindet sich in der unteren rechten Ecke, der Transparenzregler. Je weiter Sie ihn nach rechts schieben, desto weniger durchscheinend werden die Polygone dargestellt.
+
 
 # Die Seitenleiste
 
 Die Seitenleiste beinhaltet kontextbezogen die verschiedenen Funktionen der Beilagenplanung.
 
 ![grafik](https://user-images.githubusercontent.com/99329016/230010656-729ee593-9c14-4f57-9ff9-f1d7a04779f1.png)
+:material-map:
   Analysemodus mit Zielgruppenfilter und automatischer Belegung
 
- ![grafik](https://user-images.githubusercontent.com/99329016/230010672-230263d0-e239-432a-97d2-a82f47ba63c2.png)
+:material-earth:
 Planungsmodus für die manuelle Belegung
 
- ![grafik](https://user-images.githubusercontent.com/99329016/230010697-1d8fd307-8115-4846-a5d8-fe2abc85bdc0.png)
+:material-printer:
  Kartendruckfunktion
 
-Über einen Klick auf eines der beiden oberen Symbole kann die Seitenleiste expandiert oder mi-nimiert werden, wodurch sich das Kartenfenster entsprechend vergrößern lässt.
+Über einen Klick auf eines der beiden oberen Symbole kann die Seitenleiste expandiert oder minimiert werden, wodurch sich das Kartenfenster entsprechend vergrößern lässt.
