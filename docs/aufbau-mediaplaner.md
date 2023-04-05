@@ -33,3 +33,18 @@ Die Layersteuerung öffnet sich, wenn Sie mit der Maus darüberfahren. Dann kön
 
 ![grafik](https://user-images.githubusercontent.com/99329016/230008555-e11b5afa-9554-4850-8ead-5533c61bae82.png)
 Ein weiteres Element der Karte befindet sich in der unteren rechten Ecke, der Transparenzregler. Je weiter Sie ihn nach rechts schieben, desto weniger durchscheinend werden die Polygone dargestellt.
+
+# Die Seitenleiste
+
+Die Seitenleiste beinhaltet kontextbezogen die verschiedenen Funktionen der Beilagenplanung.
+
+![grafik](https://user-images.githubusercontent.com/99329016/230010656-729ee593-9c14-4f57-9ff9-f1d7a04779f1.png)
+  Analysemodus mit Zielgruppenfilter und automatischer Belegung
+
+ ![grafik](https://user-images.githubusercontent.com/99329016/230010672-230263d0-e239-432a-97d2-a82f47ba63c2.png)
+Planungsmodus für die manuelle Belegung
+
+ ![grafik](https://user-images.githubusercontent.com/99329016/230010697-1d8fd307-8115-4846-a5d8-fe2abc85bdc0.png)
+ Kartendruckfunktion
+
+Über einen Klick auf eines der beiden oberen Symbole kann die Seitenleiste expandiert oder mi-nimiert werden, wodurch sich das Kartenfenster entsprechend vergrößern lässt.
