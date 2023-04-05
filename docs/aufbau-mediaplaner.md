@@ -10,7 +10,7 @@ description:  Der Aufbau des Mediaplaners als Modul von Geospot
 
 Sie befinden sich im Modul **Mediaplanung**.
 
-Unter **Administration** versteckt sich die Möglichkeit, Ihre Planungsebene oder ein Kundenprofil Ihres Beilagenkunden anzulegen. Es ermöglicht das Anlegen von Bezirken (= Belegung eines Kun-den) und optional die Upload-Funktionalität sowie die Verwaltung Ihrer Punktlayer. 
+Unter **Administration** versteckt sich die Möglichkeit, Ihre Planungsebene oder ein Kundenprofil Ihres Beilagenkunden anzulegen. Es ermöglicht das Anlegen von Bezirken (= Belegung eines Kunden) und optional die Upload-Funktionalität sowie die Verwaltung Ihrer Punktlayer. 
 
 Die **Aktuelle Planung** ist immer ein Zusammenstellung Ihrer Trägerbezirke / Belegungseinheiten eines Kunden. Die Trägerbezirke / Belegungseinheiten bilden die sog. Grundlagen auf deren Basis Sie eine Belegung planen.
 
