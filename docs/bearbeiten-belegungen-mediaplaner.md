@@ -18,7 +18,7 @@ Die Schieberegler ermöglichen Ihnen eine einfache Gewichtung dieser Daten. Also
 
 Ein Klick auf den i-Button zeigt Ihnen den Durchschnittswert in Ihrem Verbreitungsgebiet an (o-der klicken Sie im Hauptmenü auf *Score Info*, um die Werteskala für alle Scores zu sehen). So können Sie bei einer Skala von 1-10 sehr kleinräumig die Unterschiede und Ausprägungen zwischen den einzelnen Gebieten erkennen. Die Schieberegler sind standardmäßig so eingestellt, dass alle Gebiete im und über dem Durchschnitt angezeigt werden.
 
-Sie können die gewählte Einstellung einfach als Analyseprofil speichern, indem Sie einen Namen im Feld *Neuer Name*Ü eingeben und auf Neues Profil klicken. Dieses Profil können Sie dann später aus der Profilliste auswählen.
+Sie können die gewählte Einstellung einfach als Analyseprofil speichern, indem Sie einen Namen im Feld *Neuer Name* eingeben und auf Neues Profil klicken. Dieses Profil können Sie dann später aus der Profilliste auswählen.
 
 Durch den Klick auf *Karte aktualisieren* werden nun nur noch die Bereiche in der Karte angezeigt, die Ihren gefilterten Merkmalen entsprechen. Die Polygone der Touren, die nicht in diese Ausprägung fallen, verschwinden.
 In der dazugehörigen Karte erscheinen nur die herausgefilterten 36 Gebiete von 95 insgesamt. Über das Druckersymbol 🖨️ können Sie optional ein PDF der angezeigten Karte erzeugen. 
@@ -94,7 +94,7 @@ Die sich aus diesen Bearbeitungsschritten ergebende Belegung können Sie auch we
  
 ### Mediaplanung mit Fahrzeiten oder Radien
 
-Die dritte Möglichkeit, Gebiete (in unserem Beispiel Touren) einer Belegung zuzuordnen, besteht in der Ermittlung von Fahrzeitzonen nach Minuten oder zentrischen Kreisen nach Luftlinienradi-us. Um diese Funktionen nutzen zu können, müssen Sie sich im Analyse-Modus (![grafik](https://user-images.githubusercontent.com/99329016/230020450-ada737e8-cdab-4e20-bd70-b0392201d031.png)) befinden und eine beliebige Zielgruppenauswahl vorgenommen haben (siehe 3.1	Mediaplanung mit der Analyse zum Filtern nach Zielgruppen #####).
+Die dritte Möglichkeit, Gebiete (in unserem Beispiel Touren) einer Belegung zuzuordnen, besteht in der Ermittlung von Fahrzeitzonen nach Minuten oder zentrischen Kreisen nach Luftlinienradi-us. Um diese Funktionen nutzen zu können, müssen Sie sich im Analyse-Modus (![grafik](https://user-images.githubusercontent.com/99329016/230020450-ada737e8-cdab-4e20-bd70-b0392201d031.png)) befinden und eine beliebige Zielgruppenauswahl vorgenommen haben (siehe [Mediaplanung mit der Analyse zum Filtern nach Zielgruppen](#mediaplanung-mit-der-analyse-zum-filtern-nach-zielgruppen)).
 Sie können entweder auf ein Element eines Punktlayers (z.B. einen Filialstandort) oder auf eine beliebige andere Stelle in der Karte klicken und können so die Frage beantworten „welche Touren liegen in einer Fahrzeit von x Minuten rund um diesen Standort?“:
 
 ![grafik](https://user-images.githubusercontent.com/99329016/230020720-3bdb72e4-b8e2-4786-966c-55c8ed107fc6.png)
