@@ -14,7 +14,7 @@ Unter **Administration** versteckt sich die Möglichkeit, Ihre Planungsebene ode
 
 Die **Aktuelle Planung** ist immer ein Zusammenstellung Ihrer Trägerbezirke / Belegungseinheiten eines Kunden. Die Trägerbezirke / Belegungseinheiten bilden die sog. Grundlagen auf deren Basis Sie eine Belegung planen.
 
-# Das Kartenfenster
+## Das Kartenfenster
 
 ![grafik](https://user-images.githubusercontent.com/99329016/230008089-d7800f95-647d-4f60-98b8-f0ba1e062107.png)
 
@@ -39,7 +39,7 @@ Die Layersteuerung öffnet sich, wenn Sie mit der Maus darüberfahren. Dann kön
 Ein weiteres Element der Karte befindet sich in der unteren rechten Ecke, der Transparenzregler. Je weiter Sie ihn nach rechts schieben, desto weniger durchscheinend werden die Polygone dargestellt.
 
 
-# Die Seitenleiste
+## Die Seitenleiste
 
 Die Seitenleiste beinhaltet kontextbezogen die verschiedenen Funktionen der Beilagenplanung.
 
