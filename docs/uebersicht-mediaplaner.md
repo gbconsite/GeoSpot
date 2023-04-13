@@ -10,6 +10,6 @@ Für Ihre Beilagenkunden können Sie so Zielgruppen-Profile erstellen und auf Kn
 
 Bei Fragen wenden Sie sich an:
 
-**Malte Geschwinder<br>
-[malte.geschwinder@gbconsite.de](mailto:malte.geschwinder@gbconsite.de)<br>
-Telefon: +49 89 / 309 052 972**
+**Alina Erke<br>
+[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>
+Telefon: +49 89 / 309 052 975**
