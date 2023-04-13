@@ -15,6 +15,7 @@ nav:
       - Grundlagen und Planungen: grundlagen-planungen-mediaplaner.md
       - Bearbeiten von Belegungen: bearbeiten-belegungen-mediaplaner.md
       - Datenimport: datenimport-mediaplaner.md
+      - Preise: preise-mediaplaner.md
     - API:
       - GeoSpot! API: api-intro.md
       - Routen & Endpunkte: routen.md
