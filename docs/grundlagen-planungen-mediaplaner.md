@@ -13,6 +13,16 @@ Unter *Administration :material-arrow-right: Grundlage Gebiete* können Sie sehe
 Für diese Grundlagen sind auch jeweils Polygone und Daten (Geomarketing-Daten und Ihre eigenen Daten wie z.B. Abonnentenzahlen) hinterlegt.
 An diesen Grundlagen sollten Sie nichts ändern und auch keine neuen hinzufügen.
 
+Diese Funktion ist dazu gedacht, aus einer Planung (also Zusammenstellung von kleinen Gebieten) eine neue, gröbere Grundlage zu "bauen", die dann wieder als Basis für weitere Planungen genutzt werden kann.
+
+![grafik](https://user-images.githubusercontent.com/99329016/231971174-c24b36e8-173c-4751-82cb-964e88527e4c.png)
+
+
+Beispiel:
+Die eigentliche Grundlage sind Gemeindegrenzen. Diese werden über eine neue "Planung Bezirk" zu Landkreisen zusammen gefasst. Wenn man bei dieser Planung der Landkreise dann "Als neue Grundlage anlegen" klickt, entsteht eine weitere Grundlage mit Kreisgrenzen. Diese könnte man dann z.B. nutzen, um sie per "Planung Bezirk" zu Bundesländern zusammen zu fassen.
+
+
+
 ### Planungen anlegen und verwalten
 
 Wenn Sie nun über *Administration :material-arrow-right: Planung Bezirke* eine neue Belegungsplanung anlegen, können Sie auswählen, auf welcher Grundlage die Belegungsplanung basieren soll. In diesem Fall können Sie also eine Belegung auf Basis der Ausgaben (grob, wenig Polygone) oder der Touren (feiner, mehr Polygone) anlegen:
