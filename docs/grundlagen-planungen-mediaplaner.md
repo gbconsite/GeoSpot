@@ -22,7 +22,7 @@ Wenn Sie nun über *Administration :material-arrow-right: Planung Bezirke* eine 
 
 Eine so angelegte Planung taucht nach dem Speichern anschließend zur Auswahl im Menü *Aktuelle Planung* auf.
 
-Im folgenden Beispiel wurde auf Basis der Touren (:material-arrow-right: Grundlage) die Planung „City Bremem kaufkräftig (Touren)“ angelegt und anschließend im Menü ausgewählt. In der Kartenansicht sehen Sie dann die Polygone der Touren als graue Flächen:
+Im folgenden Beispiel wurde auf Basis der Touren (:material-arrow-right: Grundlage) die Planung „City Bremen kaufkräftig (Touren)“ angelegt und anschließend im Menü ausgewählt. In der Kartenansicht sehen Sie dann die Polygone der Touren als graue Flächen:
 
 ![grafik](https://user-images.githubusercontent.com/99329016/230011645-ec73211e-6e97-4931-a5ef-79c4b6dc80f3.png)
 
