@@ -20,6 +20,7 @@ description:  Preisübersicht des Mediaplaners
 
 Weitere individuelle Datenpakete verfügbar (250 / 500 / 750 € je Paket pro Jahr, Preis je Paket unabhängig von Anzahl der User).
 
+
 Beispiele Datenpakete:
 
 **Basic:** Kaufkraft, Haushalte, Einwohner: 250 € pro Jahr
@@ -27,6 +28,7 @@ Beispiele Datenpakete:
 **Advanced:** Bevölkerungsentwicklung, Consumer Interests, Bildung: 500 € pro Jahr
 
 **Premium:** Einkommensklassen, sortimentsbezogene Kaufkraft, Demografie in 17 Altersklassen und nach Geschlecht: 750 € pro Jahr
+
 
 
 Gerne kontaktieren Sie uns für ein Angebot, das zu Ihnen passt.
