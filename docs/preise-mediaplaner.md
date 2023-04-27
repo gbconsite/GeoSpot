@@ -21,11 +21,11 @@ Weitere individuelle Datenpakete verfügbar (250 / 500 / 750 € je Paket pro Ja
 
 Beispiele Datenpakete:
 
-Basic: Kaufkraft, Haushalte, Einwohner: 250 € pro Jahr
+**Basic:** Kaufkraft, Haushalte, Einwohner: 250 € pro Jahr
 
-Advanced: Bevölkerungsentwicklung, Consumer Interests, Bildung: 500 € pro Jahr
+**Advanced:** Bevölkerungsentwicklung, Consumer Interests, Bildung: 500 € pro Jahr
 
-Premium: Einkommensklassen, sortimentsbezogene Kaufkraft, Demografie in 17 Altersklassen und nach Geschlecht: 750 € pro Jahr
+**Premium:** Einkommensklassen, sortimentsbezogene Kaufkraft, Demografie in 17 Altersklassen und nach Geschlecht: 750 € pro Jahr
 
 
 Gerne kontaktieren Sie uns für ein Angebot, das zu Ihnen passt.
