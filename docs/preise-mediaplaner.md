@@ -6,12 +6,17 @@ description:  Preisübersicht des Mediaplaners
 
 ## Mediaplaner Erstlizenz 12 Monate ohne Daten
 3.490 Euro für einen User ohne Daten				FOLGELIZENZ 1.490 Euro
+
 3.990 Euro für 2 User ohne Daten				FOLGELIZENZ 1.690 Euro
+
 4.290 Euro für 3-5 User ohne Daten				FOLGELIZENZ 1.890 Euro
+
 
 ## Mediaplaner Erstlizenz 12 Monate mit Daten
 3.690 Euro für einen User mit Haushalten			FOLGELIZENZ 1.690 Euro
+
 4.190 Euro für 2 User mit Haushalten				FOLGELIZENZ 1.890 Euro
+
 4.490 Euro für 3-5 User mit Haushalten				FOLGELIZENZ 2.090 Euro
 
 
