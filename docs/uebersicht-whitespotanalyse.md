@@ -7,3 +7,8 @@ Die Software gibt Ihnen Klarheit über ein bestehendes Filialnetz, eignet sich a
 Herzstück des Tools bildet die Einzzugsgebietsanalyse: Sie können entweder einen Radius, eine Fahrzeit (MIV) oder ein freies Gebiet bilden und erhalten in dem gewählten Segment eine Soziodemographische Auswertung und Informationen zu Ihrem Wettbewerb.
 
 
+Bei Fragen wenden Sie sich an:
+
+**Marjana Vollbach<br>
+[marjana.vollbach@gbconsite.de](mailto:marjana.vollbach@gbconsite.de)<br>
+Telefon: +49 89 / 309 052 978**
