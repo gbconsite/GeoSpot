@@ -24,7 +24,7 @@ Weitere individuelle Datenpakete verfügbar (250 / 500 / 750 € je Paket pro Ja
 
 Beispiele Datenpakete:
 
-**Basic:** Haushalte, Einzelhandelsrelevante Kaufkraft, Passantenfrequenz: 250 € pro Jahr
+**Basic:** Haushalte, Passantenfrequenz, Einzelhandelsrelevante Kaufkraft: 250 € pro Jahr
 
 **Advanced:** Bevölkerungsentwicklung, Consumer Interests, Bildung: 500 € pro Jahr
 
