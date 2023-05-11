@@ -1,6 +1,6 @@
 # Übersicht 
 
-Mit der Whitespot-Analyse können digitale Karten angezeigt und räumliche Analysen auf Mikroebene ausgeführt werden.
+Mit der GeoSpot! Whitespot-Analyse können digitale Karten angezeigt und räumliche Analysen auf Mikroebene ausgeführt werden.
 
 Die Software gibt Klarheit über ein bestehendes Filialnetz, eignet sich aber auch für eine komplette Neuplanung und Erweiterung eines Filialnetzes. Konkret erhält man für eine Adresse die Erfolgsfaktoren eines Standortes und Informationen wie die Zielgruppe sich jeweils räumlich verteilt.
 
