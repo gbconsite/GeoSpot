@@ -6,7 +6,7 @@ Die Software gibt Klarheit über ein bestehendes Filialnetz, eignet sich aber au
 
 Herzstück des Tools bildet die Einzugsgebiets-Analyse: Man kann entweder einen Radius, eine Fahrzeit (MIV) oder ein freies Gebiet bilden und erhält in dem gewählten Segment eine soziodemographische Auswertung und Informationen zu potenziellen Mitwettbewerbern.
 
-Es ist die Geomarketing-Software, die Erfolgspotenziale für Standorte und Adressen deuschlandweit identfizieren kann und damit wichtiges Werkzeug für die Expansion in der Standortentscheidungen essentiell sind.
+Es ist die Geomarketing-Software, die Erfolgspotenziale für Standorte und Adressen deuschlandweit identfizieren kann und damit eine wichtiges Werkzeug für die Expansion in der Standortentscheidungen und Standortanalysen essentiell sind.
 
 
 
