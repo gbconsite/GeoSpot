@@ -8,7 +8,7 @@ Sie möchten Vertriebsgebiete auf digitalen Landkarten visualisieren und bearbei
 
 Mithilfe der Software GeoSpot! Bezirksplaner können Vertriebsgebiete angezeigt, aktualisiert und per Mausklick optimiert werden. 
 
-Der Bezirksplaner bietet umfassende Möglichkeiten: bereits bestehende Planungen können aus Excel importiert werden. Man kann aber auch komplett neu planen, indem man manuell selbst zusammenhängende Gebiete erzeugt oder einen automatisierten Lösungsvorschlag des Softwaretools annimmt. Dabei werden die Gebiete immer dem nächstgelegenen Kundenbetreuer oder Vertriebsmanager zugeordnet.
+Der Bezirksplaner bietet umfassende Möglichkeiten: bereits bestehende Planungen können aus Excel importiert werden. Man kann aber auch komplett neu planen, indem man manuell selbst zusammenhängende Gebiete erzeugt oder einen automatisierten Lösungsvorschlag des Softwaretools annimmt. Dabei werden die Gebiete immer dem / der nächstgelegenen Kundenbetreuer:in oder Vertriebsmanager:in zugeordnet.
 
 Spannend ist das Geo-Tool für Unternehmen mit deutschlandweitem Aussendienst und für Kunden, die eine optimale Bedienung des Gesamtmarktes und eine ausgewogene Balance aller Vertriebsgebiete erreichen wollen.
 
