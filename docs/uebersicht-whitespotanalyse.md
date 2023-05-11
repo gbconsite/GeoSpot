@@ -1,3 +1,7 @@
+---
+description: Einleitung und Aufbau der Whitespot-Analyse für die Nutzung in der Expansion und Standortanalyse
+---
+
 # Übersicht 
 
 Mit der GeoSpot! Whitespot-Analyse können digitale Karten angezeigt und räumliche Analysen auf Mikroebene ausgeführt werden.
