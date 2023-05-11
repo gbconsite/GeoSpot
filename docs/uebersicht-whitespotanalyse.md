@@ -1,10 +1,12 @@
 # Übersicht 
 
-Es handelt sich bei der Software um eine GIS-Anwendung, mit der digitale Karten auf dem Computer geöffnet, räumliche Informationen auf der Karte angezeigt, Karten erstellt werden und räumliche Analysen durchgeführt werden.
+Mit der Whitespot-Analyse können digitale Karten angezeigt und räumliche Analysen auf Mikroebene ausgeführt werden.
 
-Die Software gibt Ihnen Klarheit über ein bestehendes Filialnetz, eignet sich aber auch für eine komplette Neuplanung und Erweiterung eines Filialnetzes. Konkret erhalten Sie für eine Adresse die Erfolgsfaktoren eines Standortes und Informationen wie die Zielgruppe sich jeweils räumlich verteilt.
+Die Software gibt Klarheit über ein bestehendes Filialnetz, eignet sich aber auch für eine komplette Neuplanung und Erweiterung eines Filialnetzes. Konkret erhält man für eine Adresse die Erfolgsfaktoren eines Standortes und Informationen wie die Zielgruppe sich jeweils räumlich verteilt.
 
-Herzstück des Tools bildet die Einzugsgebietsanalyse: Sie können entweder einen Radius, eine Fahrzeit (MIV) oder ein freies Gebiet bilden und erhalten in dem gewählten Segment eine soziodemographische Auswertung und Informationen zu potenziellen Wettbewerbern.
+Herzstück des Tools bildet die Einzugsgebietsanalyse: Man kann entweder einen Radius, eine Fahrzeit (MIV) oder ein freies Gebiet bilden und erhält in dem gewählten Segment eine soziodemographische Auswertung und Informationen zu potenziellen Mitwettbewerbern.
+
+Es ist die Geomarketing-Software, die Erfolgspotentiale für Stanforte identfizeirt und essentielle Fragen beantwortet. Wo lebt meine Zielgruppe und wo generiere ich den meinsten Umsatz!
 
 
 Bei Fragen wenden Sie sich an:
