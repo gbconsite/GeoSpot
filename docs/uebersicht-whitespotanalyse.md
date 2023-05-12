@@ -10,7 +10,7 @@ Die Software gibt Klarheit über ein bestehendes Filialnetz, eignet sich aber au
 
 Herzstück des Tools bildet die Einzugsgebietsanalyse: Man kann entweder einen Radius, eine Fahrzeit (MIV) oder ein freies Gebiet bilden und erhält in dem gewählten Segment eine soziodemographische Auswertung und Informationen zu potenziellen Mitwettbewerbern.
 
-Es ist die Geomarketing-Software, die Erfolgspotenziale für Standorte und Adressen deuschlandweit identfizieren kann und damit ein wichtiges Werkzeug für die Expansion in der Standortentscheidungen und Standortanalysen essenziell sind. Damit ist eine erfolgreiche Anmietung und Immmobilienerwerb garantiert.
+Die Whitespot-Analyse ist die Geomarketing-Software, die Erfolgspotenziale für Standorte und Adressen deuschlandweit identfizieren kann und damit ein wichtiges Werkzeug für eine erfolgreiche Expansion. Mit den Standotanalysen sichert man sich richtige Immmobilie, ob beim Kauf oder Anmietung von Objekten. 
 
 
 
