@@ -32,6 +32,32 @@ Bsp. Rückgabe:
   }
 }
 ```
+Mit Bundeswerten
+
+<https://www.geospot.de/api/available_values.json?country_value=true>
+
+```json
+{
+  "values": {
+    "ew": {
+      "name": "Einwohner",
+      "country_value": 83155031
+    },
+    "hh": {
+      "name": "Anzahl Haushalte",
+      "country_value": 41043789
+    },
+    "erw_tae": {
+      "name": "Erwerbstätige gesamt",
+      "country_value": 43018195
+    },
+    "kfzbestand_gesamt": {
+      "name": "Anzahl KFZ",
+      "country_value": 58964379
+    }
+  }
+}
+```
 
 ## 2 Abfrage welche Punkt-Layer zur Verfügung stehen
 
