@@ -254,51 +254,63 @@ Bsp. Rückgabe:
     "data": {
         "ew": {
             "name": "Einwohner",
-            "value": 55238
+            "value": 55238,
+            "score": 5.7
         },
         "ew_0014": {
             "name": "Einwohner 0 bis 14 Jahre",
-            "value": 7671
+            "value": 7671,
+            "score": 5.7
         },
         "hh": {
             "name": "Anzahl Haushalte",
-            "value": 26892
+            "value": 26892,
+            "score": 5.7
         },
         "ew_zz": {
             "name": "Zuzüge insgesamt",
-            "value": 5313
+            "value": 5313,
+            "score": 1.1
         },
         "p25ew": {
             "name": "Einwohner insgesamt - Prognose 2025",
-            "value": 60750
+            "value": 60750,
+            "score": 1.1
         },
         "p30ew": {
             "name": "Einwohner insgesamt - Prognose 2030",
-            "value": 62903
+            "value": 62903,
+            "score": 1.1
         },
         "bap_gesamt": {
             "name": "Büroarbeitsplätze insgesamt",
-            "value": 21989
+            "value": 21989,
+            "score": 1.1
         },
         "cfiw_abs": {
             "name": "Affinität für Fitness/Wellness absolut",
-            "value": 15191
+            "value": 15191,
+            "score": 1.1
         },
         "lohas_abs": {
             "name": "Lifestyles of Health and Sustainability absolut",
-            "value": 9516
+            "value": 9516,
+            "score": 1.1
         },
         "sysgastro": {
             "name": "Systemgastronomie",
-            "value": 3
+            "value": 3,
+            "score": 1.1
         },
         "kk_ew": {
             "name": "Kaufkraft pro Einwohner",
-            "value": 26675
+            "value": 26675,
+            "score": 1.1
         },
         "tech_prueforga": {
             "name": "Technische Prüforganisationen",
-            "value": 6
+            "value": 6,
+            "score": 1.1
         }
     },
     "layer": [{
