@@ -41,19 +41,23 @@ Mit Bundeswerten
   "values": {
     "ew": {
       "name": "Einwohner",
-      "country_value": 83155031
+      "country_value": 83155031,
+      "country_mean": 189
     },
     "hh": {
       "name": "Anzahl Haushalte",
-      "country_value": 41043789
+      "country_value": 41043789,
+      "country_mean": 93
     },
     "erw_tae": {
       "name": "Erwerbstätige gesamt",
-      "country_value": 43018195
+      "country_value": 43018195,
+      "country_mean": 98
     },
     "kfzbestand_gesamt": {
       "name": "Anzahl KFZ",
-      "country_value": 58964379
+      "country_value": 58964379,
+      "country_mean": 134
     }
   }
 }
@@ -157,51 +161,63 @@ Bsp. Rückgabe:
     "data": {
         "ew": {
             "name": "Einwohner",
-            "value": 37332
+            "value": 37332,
+            "score": 5.7
         },
         "ew_0014": {
             "name": "Einwohner 0 bis 14 Jahre",
-            "value": 5112
+            "value": 5112,
+            "score": 5.7
         },
         "hh": {
             "name": "Anzahl Haushalte",
-            "value": 18586
+            "value": 18586,
+            "score": 5.7
         },
         "ew_zz": {
             "name": "Zuzüge insgesamt",
-            "value": 3462
+            "value": 3462,
+            "score": 1.1
         },
         "p25ew": {
             "name": "Einwohner insgesamt - Prognose 2025",
-            "value": 40568
+            "value": 40568,
+            "score": 1.1
         },
         "p30ew": {
             "name": "Einwohner insgesamt - Prognose 2030",
-            "value": 41939
+            "value": 41939,
+            "score": 1.1
         },
         "bap_gesamt": {
             "name": "Büroarbeitsplätze insgesamt",
-            "value": 12400
+            "value": 12400,
+            "score": 1.1
         },
         "cfiw_abs": {
             "name": "Affinität für Fitness/Wellness absolut",
-            "value": 10023
+            "value": 10023,
+            "score": 1.1
         },
         "lohas_abs": {
             "name": "Lifestyles of Health and Sustainability absolut",
-            "value": 6370
+            "value": 6370,
+            "score": 1.1
         },
         "sysgastro": {
             "name": "Systemgastronomie",
-            "value": 3
+            "value": 3,
+            "score": 1.1
         },
         "kk_ew": {
             "name": "Kaufkraft pro Einwohner",
-            "value": 27163
+            "value": 27163,
+            "score": 1.1
         },
         "tech_prueforga": {
             "name": "Technische Prüforganisationen",
-            "value": 2
+            "value": 2,
+            "score": 1.1
         }
     },
     "layer": [],
