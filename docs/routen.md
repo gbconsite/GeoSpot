@@ -32,9 +32,9 @@ Bsp. Rückgabe:
   }
 }
 ```
-Mit Bundeswerten
+Mit Zusatzinformationen Bundeswerten, Mittelwert, Scores
 
-<https://www.geospot.de/api/available_values.json?country_value=true>
+<https://www.geospot.de/api/available_values.json?extended=true>
 
 ```json
 {
@@ -42,22 +42,190 @@ Mit Bundeswerten
     "ew": {
       "name": "Einwohner",
       "country_value": 83155031,
-      "country_mean": 189
+      "country_mean": 189,
+      "scores": {
+        "1": {
+          "min": 0,
+          "max": 0
+        },
+        "2": {
+          "min": 0,
+          "max": 1
+        },
+        "3": {
+          "min": 1,
+          "max": 41
+        },
+        "4": {
+          "min": 41,
+          "max": 47
+        },
+        "5": {
+          "min": 47,
+          "max": 145
+        },
+        "6": {
+          "min": 145,
+          "max": 281
+        },
+        "7": {
+          "min": 281,
+          "max": 701
+        },
+        "8": {
+          "min": 701,
+          "max": 1208
+        },
+        "9": {
+          "min": 1208,
+          "max": 3294
+        },
+        "10": {
+          "min": 3294,
+          "max": 20000
+        }
+      }
     },
     "hh": {
       "name": "Anzahl Haushalte",
       "country_value": 41043789,
-      "country_mean": 93
+      "country_mean": 93,
+      "scores": {
+        "1": {
+          "min": 0,
+          "max": 0
+        },
+        "2": {
+          "min": 0,
+          "max": 1
+        },
+        "3": {
+          "min": 1,
+          "max": 19
+        },
+        "4": {
+          "min": 19,
+          "max": 21
+        },
+        "5": {
+          "min": 21,
+          "max": 66
+        },
+        "6": {
+          "min": 66,
+          "max": 128
+        },
+        "7": {
+          "min": 128,
+          "max": 331
+        },
+        "8": {
+          "min": 331,
+          "max": 606
+        },
+        "9": {
+          "min": 606,
+          "max": 1883
+        },
+        "10": {
+          "min": 1883,
+          "max": 1500000
+        }
+      }
     },
     "erw_tae": {
       "name": "Erwerbstätige gesamt",
       "country_value": 43018195,
-      "country_mean": 98
+      "country_mean": 98,
+      "scores": {
+        "1": {
+          "min": 0,
+          "max": 0
+        },
+        "2": {
+          "min": 0,
+          "max": 1
+        },
+        "3": {
+          "min": 1,
+          "max": 26
+        },
+        "4": {
+          "min": 26,
+          "max": 29
+        },
+        "5": {
+          "min": 29,
+          "max": 85
+        },
+        "6": {
+          "min": 85,
+          "max": 158
+        },
+        "7": {
+          "min": 158,
+          "max": 374
+        },
+        "8": {
+          "min": 374,
+          "max": 627
+        },
+        "9": {
+          "min": 627,
+          "max": 1649
+        },
+        "10": {
+          "min": 1649,
+          "max": 8000
+        }
+      }
     },
     "kfzbestand_gesamt": {
       "name": "Anzahl KFZ",
       "country_value": 58964379,
-      "country_mean": 134
+      "country_mean": 134,
+      "scores": {
+        "1": {
+          "min": 0,
+          "max": 1
+        },
+        "2": {
+          "min": 1,
+          "max": 10
+        },
+        "3": {
+          "min": 10,
+          "max": 20
+        },
+        "4": {
+          "min": 20,
+          "max": 50
+        },
+        "5": {
+          "min": 50,
+          "max": 100
+        },
+        "6": {
+          "min": 100,
+          "max": 200
+        },
+        "7": {
+          "min": 200,
+          "max": 500
+        },
+        "8": {
+          "min": 500,
+          "max": 750
+        },
+        "9": {
+          "min": 750,
+          "max": 1000
+        },
+        "10": {
+          "min": 1000,
+          "max": 10000
+        }
+      }
     }
   }
 }
@@ -129,6 +297,8 @@ Bsp. Rückgabe:
 
 <https://www.geospot.de/api/whitespot_location.json?lat=48.27679550566659&lon=11.574096679687498&radius=3000>
 
+Als Bild:
+<https://www.geospot.de/api/whitespot_location.png?lat=48.27679550566659&lon=11.574096679687498&radius=3000>
 
 | **Parameter**       | **Beschreibung**                                                                                                                 | **Werte**                   |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
@@ -150,6 +320,7 @@ Bsp. Rückgabe:
 | **all_own_layers**  | Alle Eigenen Layers                                                                                                              | true oder false (default)   |
 | **own_layer_ids**   | **Optional** Eigene Layers mit Ids                                                                                                   | Komma Liste                 |
 | **own_layer_names** | **Optional** Eigene Layers mit Namen                                                                                                 | Komma Liste                 |
+| **include_image**   | **Optional** Bild wird als Base64 String zurückgegeben(nur bei json)                                                                 | true  oder false (default)  |
 
 Wenn keine Koordinaten vorhanden sind, dann die Alternative 1 und 2 verwenden.
 Alternative 1: Es muss mindestens 1 Wert angegeben sein.
@@ -460,6 +631,7 @@ Bsp. Rückgabe:
         "all_layers": "true",
         "all_own_layers": "true",
         "200": false
-    }
+    },
+    "image": "data:image/png;base64,iVBORw0...."
 }
 ```
