@@ -317,10 +317,17 @@ Als Bild:
 | **all_layers**      | **Optional** Alle System Layers                                                                                                      | true oder false (default)   |
 | **layer_ids**       | **Optional** System Layers mit Ids                                                                                                   | Komma Liste                 |
 | **layer_names**     | **Optional** System Layers mit Namen                                                                                                 | Komma Liste                 |
-| **all_own_layers**  | Alle Eigenen Layers                                                                                                              | true oder false (default)   |
+| **all_own_layers**  | **Optional** Alle Eigenen Layers                                                                                                              | true oder false (default)   |
 | **own_layer_ids**   | **Optional** Eigene Layers mit Ids                                                                                                   | Komma Liste                 |
 | **own_layer_names** | **Optional** Eigene Layers mit Namen                                                                                                 | Komma Liste                 |
 | **include_image**   | **Optional** Bild wird als Base64 String zurückgegeben(nur bei json)                                                                 | true  oder false (default)  |
+
+
+| **Parameter für Bild** | **Beschreibung (bei format png oder Paramter include_image)**                                                                   | **Werte**                   |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| **include_cells**   | **Optional** Zellen werden angezeigt                                                                                                 |  true  oder false (default) |
+| **transparent**     | **Optional** Transparentz für die Zellen                                                                                             |  float 0.0 -1.0             |
+| **filter**         | **Optional** Damit kann man Steuern welche die Scores verwendet werden. Bsp. filter[ew]=5,10 oder filter[ew]=5,10,true- Parameter include_cells wird automatisch auf true gesetzt |  min,max(,reverse)          |
 
 Wenn keine Koordinaten vorhanden sind, dann die Alternative 1 und 2 verwenden.
 Alternative 1: Es muss mindestens 1 Wert angegeben sein.
