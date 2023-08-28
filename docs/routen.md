@@ -322,6 +322,9 @@ Als Bild:
 | **own_layer_names** | **Optional** Eigene Layers mit Namen                                                                                                 | Komma Liste                 |
 | **include_image**   | **Optional** Bild wird als Base64 String zurückgegeben(nur bei json)                                                                 | true  oder false (default)  |
 
+Wenn keine Koordinaten vorhanden sind, dann die Alternative 1 und 2 verwenden.
+Alternative 1: Es muss mindestens 1 Wert angegeben sein.
+
 
 | **Parameter für Bild** | **Beschreibung (bei format png oder Paramter include_image)**                                                                   | **Werte**                   |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
@@ -329,8 +332,8 @@ Als Bild:
 | **transparent**     | **Optional** Transparentz für die Zellen                                                                                             |  float 0.0 -1.0             |
 | **filter**         | **Optional** Damit kann man Steuern welche die Scores verwendet werden. Bsp. filter[ew]=5,10 oder filter[ew]=5,10,true- Parameter include_cells wird automatisch auf true gesetzt |  min,max(,reverse)          |
 
-Wenn keine Koordinaten vorhanden sind, dann die Alternative 1 und 2 verwenden.
-Alternative 1: Es muss mindestens 1 Wert angegeben sein.
+<https://www.geospot.de/api/whitespot_location.png?lat=48.27679550566659&lon=11.574096679687498&radius=3000&filter[ew]=6,10&transparent=0.5>
+
 
 Bsp. Rückgabe:
 
