@@ -1,5 +1,5 @@
 ---
-description: Aufbau und Erklärung zum Bezirksplaner bze. Gebietsplaner für die Planung von Vertriebsgebieten
+description: Aufbau und Erklärung zum Bezirksplaner bzw. Gebietsplaner für die Planung von Vertriebsgebieten
 ---
 
 # Übersicht
