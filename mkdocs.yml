@@ -5,12 +5,15 @@ nav:
     - Home: index.md
     - Whitespot-Analyse:
       - Übersicht: uebersicht-whitespotanalyse.md
+      - Anwendungsbeispiele: anwendungsbeispiele-whitespot.md
       - Preise: preise-whitespot.md
     - Bezirksplaner:
       - Übersicht: uebersicht-bezirksplaner.md
+      - Anwendungsbeispiele: anwendungsbeispiele-bezirksplaner.md
       - Preise: preise-bezirksplaner.md
     - Regio-Analyse:
       - Übersicht: uebersicht-regioanalyse.md
+      - Anwendungsbeispiele: anwendungsbeispiele-regioanalyse.md
       - Preise: preise-regioanalyse.md
     - Mediaplaner:
       - Übersicht: uebersicht-mediaplaner.md
