@@ -13,6 +13,7 @@ Sie können Ihren Account auch einer Konfigurationsdatei für einen schnelleren 
 <https://www.geospot.de/api/available_values.json>
 
 Bsp. Rückgabe:
+Firmenzähler(fz_values) nur Daten optional
 
 ```json
 {
@@ -30,8 +31,16 @@ Bsp. Rückgabe:
     "kk_ew": "Kaufkraft pro Einwohner",
     "tech_prueforga": "Technische Prüforganisationen" 
   }
+  "fz_values": {
+    "fz_1903": "Firmenzähler: Entsorgung und Recycling",
+    "fz_k_1903": "Firmenzähler (kleine Betriebe): Entsorgung und Recycling",
+    "fz_m_1903": "Firmenzähler (mittlere Betriebe): Entsorgung und Recycling",
+    "fz_g_1903": "Firmenzähler (große Betriebe): Entsorgung und Recycling"
+  }
 }
 ```
+
+
 Mit Zusatzinformationen Bundeswerten, Mittelwert, Scores
 
 <https://www.geospot.de/api/available_values.json?extended=true>
@@ -228,6 +237,28 @@ Mit Zusatzinformationen Bundeswerten, Mittelwert, Scores
       }
     }
   }
+  "fz_values": {
+    "fz_1903": {
+      "name": "Firmenzähler: Entsorgung und Recycling",
+      "country_value": 6890,
+      "country_mean": 1
+    },
+    "fz_k_1903": {
+      "name": "Firmenzähler (kleine Betriebe): Entsorgung und Recycling",
+      "country_value": 4800,
+      "country_mean": 1
+    },
+    "fz_m_1903": {
+      "name": "Firmenzähler (mittlere Betriebe): Entsorgung und Recycling",
+      "country_value": 1911,
+      "country_mean": 1
+    },
+    "fz_g_1903": {
+      "name": "Firmenzähler (große Betriebe): Entsorgung und Recycling",
+      "country_value": 179,
+      "country_mean": 1
+    }
+  }
 }
 ```
 
@@ -336,6 +367,7 @@ Alternative 1: Es muss mindestens 1 Wert angegeben sein.
 
 
 Bsp. Rückgabe:
+Firmenzähler(fz_data) nur Daten optional
 
 ```json
 {
@@ -400,6 +432,24 @@ Bsp. Rückgabe:
             "value": 2,
             "score": 1.1
         }
+    },
+    "fz_data": {
+      "fz_1903": {
+        "name": "Firmenzähler: Entsorgung und Recycling",
+        "value": 4
+      },
+      "fz_k_1903": {
+        "name": "Firmenzähler (kleine Betriebe): Entsorgung und Recycling",
+        "value": 1
+      },
+      "fz_m_1903": {
+        "name": "Firmenzähler (mittlere Betriebe): Entsorgung und Recycling",
+        "value": 3
+      },
+      "fz_g_1903": {
+        "name": "Firmenzähler (große Betriebe): Entsorgung und Recycling",
+        "value": 0
+      }
     },
     "layer": [],
     "own_layer": [],
