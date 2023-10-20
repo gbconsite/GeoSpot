@@ -344,7 +344,7 @@ Als Bild:
 | **country**         | **Optional alt. 1** Land                                                                                                             | string                      |
 | **address**         | **Required alt.2** (kann mit alt 1 kombiniert werden) kompletter Adressstring                                                        | string                      |
 | **countryCode**     | **Optional alt. 1/2** Land ISO 3166-1 alpha-3 (DEU)                                                                                  | string                      |
-| **200**             | **Optional** Die Werte werden in einem 200x200 Meter Raster ermittelt statt 600x600. (sinnvoll bei kleinem Radius bzw wenig Minuten. |  true  oder false (default) |
+| **grid200**         | **Optional** Die Werte (nicht Scores oder Bild) werden in einem 200x200 Meter Raster ermittelt statt 600x600. (sinnvoll bei kleinem Radius bzw wenig Minuten. |  true  oder false (default) |
 | **all_layers**      | **Optional** Alle System Layers                                                                                                      | true oder false (default)   |
 | **layer_ids**       | **Optional** System Layers mit Ids                                                                                                   | Komma Liste                 |
 | **layer_names**     | **Optional** System Layers mit Namen                                                                                                 | Komma Liste                 |
@@ -473,7 +473,7 @@ Firmenzähler(fz_data) nur Daten optional
         "own_layer_names": true,
         "all_layers": null,
         "all_own_layers": null,
-        "200": false
+        "grid200": false
     }
 }
 ```
@@ -690,7 +690,7 @@ Firmenzähler(fz_data) nur Daten optional
         "own_layer_names": true,
         "all_layers": "true",
         "all_own_layers": "true",
-        "200": false
+        "grid200": false
     },
     "image": "data:image/png;base64,iVBORw0...."
 }
