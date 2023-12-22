@@ -12,17 +12,17 @@ Es können Standorte unterschiedlicher Branchen geprüft werden. Hier eine Auswa
 
 Übrigens – für Gründer und junge Unternehmen auch aus dem Online-Handel bieten wir ein separates Produkt smartspot an: https://www.smartaxxess.de/smartspot/
 
-# Ablauf der Einzelanalysen bei der GeoSpot! Whitespot-Analyse:
+## Ablauf der Einzelanalysen bei der GeoSpot! Whitespot-Analyse:
  
 Als Kunde entscheiden Sie selbst und wählen die relevanten Standortfaktoren im Vorfeld aus. Gb consite stellt dafür einen Datenkatalog und eine Auswahl an Datenpaketen und Standortadressen bereit, aus denen Sie eine Auswahl treffen. Ihre Auswahl wird dann bei jeder Anmeldung in das GeoSpot! Whitespot-Analyse-Tool hochgeladen.  
 Nach Eingabe der Adresse auf der Kartenseite wählen Sie einen Radius, ein freies Gebiet oder ein Fahrzeitengebiet für die Ermittlung eines Einzugsgebietes aus.
 Nach einer kurzen Berechnungszeit werden die Ergebnisse direkt auf dem Bildschirm angezeigt, alternativ kann auch ein pdf-Dokument erzeugt werden.
 Die Ergebnisdarstellung beinhaltet Karten, Kennzahlen (absolut oder als Index) sowie eine Auswertung eines Scoringmodells – die Ergebnisse helfen Ihnen dabei den Standort zu bewerten. 
 
-# Beispiele:
+## Beispiele:
 
 
-## 1 Baumarkt 
+### 1 Baumarkt 
 ![image](https://github.com/gbconsite/GeoSpot/assets/47481567/5a6a3359-e59a-4d90-bdec-ead3d55189ec)
 Foto von Pickawood auf Unsplash
 
@@ -34,7 +34,7 @@ Foto von Pickawood auf Unsplash
 ![image](https://github.com/gbconsite/GeoSpot/assets/47481567/de92c7a9-260a-411d-b259-d9057d6dbc2f)
 
 
-## 2 Salatbar (als Beispiel für eine Systemgastronomie)
+### 2 Salatbar (als Beispiel für eine Systemgastronomie)
 
 ![image](https://github.com/gbconsite/GeoSpot/assets/47481567/c01e28f3-c7b4-47d0-b98d-9365e02cf73c)
 Foto von Jon Chai auf Unsplash
@@ -45,7 +45,7 @@ Foto von Jon Chai auf Unsplash
 
 ![image](https://github.com/gbconsite/GeoSpot/assets/47481567/b3d711b4-84b5-4ee4-b91e-1d7cf30be679)
 
-## 3 Fitness-Studio
+### 3 Fitness-Studio
 ![image](https://github.com/gbconsite/GeoSpot/assets/47481567/1ba65549-be14-4586-9d60-68de2187a5e0)
 Foto von Danielle Cerullo auf Unsplash
 
@@ -55,11 +55,12 @@ Foto von Danielle Cerullo auf Unsplash
 
 ![image](https://github.com/gbconsite/GeoSpot/assets/47481567/6f661460-1759-45cf-b5ee-8e443362e99e)
 
-## 4 Gewerbepark
+### 4 Gewerbepark
 Foto von Adrian Sulyok auf Unsplash
 
 - Kennzahlen: Autobahnanschluss in der Nähe, Anzahl der Gewerbebetriebe, Firmenzähler, Bevölkerungsprognose
 - Ergebnis: 10 km Radius für Gewerbepark an der Autobahnausfahrt Pulheim
 
 ![image](https://github.com/gbconsite/GeoSpot/assets/47481567/26c9f122-c98d-49d8-8a89-7337c316ce4d)
+
 
