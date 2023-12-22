@@ -42,3 +42,24 @@ Foto von Jon Chai auf Unsplash
 - Kennzahlen: Einwohner, Passantenfrequenzindikator, Anzahl der Büroarbeitsplätze, 
 - Wettbewerb: Systemgastronomie
 - Ergebnis: Einzugsgebiet 1 km -Radius für geplante Salatbar im Stadtzentrum Mannheim
+
+![image](https://github.com/gbconsite/GeoSpot/assets/47481567/b3d711b4-84b5-4ee4-b91e-1d7cf30be679)
+
+## 3 Fitness-Studio
+![image](https://github.com/gbconsite/GeoSpot/assets/47481567/1ba65549-be14-4586-9d60-68de2187a5e0)
+Foto von Danielle Cerullo auf Unsplash
+
+- Kennzahlen: Einwohner, Kaufkraft, Affinität für Fitness/Wellness etc.
+- Wettbewerb: Fitness-Studios
+- Ergebnis: 5 Minuten Fahrzeit für geplantes Fitness-Studio in Königswinter
+
+![image](https://github.com/gbconsite/GeoSpot/assets/47481567/6f661460-1759-45cf-b5ee-8e443362e99e)
+
+## 4 Gewerbepark
+Foto von Adrian Sulyok auf Unsplash
+
+- Kennzahlen: Autobahnanschluss in der Nähe, Anzahl der Gewerbebetriebe, Firmenzähler, Bevölkerungsprognose
+- Ergebnis: 10 km Radius für Gewerbepark an der Autobahnausfahrt Pulheim
+
+![image](https://github.com/gbconsite/GeoSpot/assets/47481567/26c9f122-c98d-49d8-8a89-7337c316ce4d)
+
