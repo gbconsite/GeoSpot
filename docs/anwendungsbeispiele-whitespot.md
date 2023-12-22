@@ -55,6 +55,8 @@ Foto von Danielle Cerullo auf Unsplash
 ![image](https://github.com/gbconsite/GeoSpot/assets/47481567/6f661460-1759-45cf-b5ee-8e443362e99e)
 
 ### 4 Gewerbepark
+![image](https://github.com/gbconsite/GeoSpot/assets/47481567/543d034c-43db-4107-beaa-72ca4e61260e)
+
 Foto von Adrian Sulyok auf Unsplash
 
 - Kennzahlen: Autobahnanschluss in der Nähe, Anzahl der Gewerbebetriebe, Firmenzähler, Bevölkerungsprognose
