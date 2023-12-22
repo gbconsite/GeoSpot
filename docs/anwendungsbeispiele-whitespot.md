@@ -19,8 +19,7 @@ Nach Eingabe der Adresse auf der Kartenseite wählen Sie einen Radius, ein freie
 Nach einer kurzen Berechnungszeit werden die Ergebnisse direkt auf dem Bildschirm angezeigt, alternativ kann auch ein pdf-Dokument erzeugt werden.
 Die Ergebnisdarstellung beinhaltet Karten, Kennzahlen (absolut oder als Index) sowie eine Auswertung eines Scoringmodells – die Ergebnisse helfen Ihnen dabei den Standort zu bewerten. 
 
-## Beispiele:
-
+Beispiele:
 
 ### 1 Baumarkt 
 ![image](https://github.com/gbconsite/GeoSpot/assets/47481567/5a6a3359-e59a-4d90-bdec-ead3d55189ec)
@@ -63,4 +62,56 @@ Foto von Adrian Sulyok auf Unsplash
 
 ![image](https://github.com/gbconsite/GeoSpot/assets/47481567/26c9f122-c98d-49d8-8a89-7337c316ce4d)
 
+## Mikro-Standorte
+**Wie kann ich die richtigen Mikro-Standorte finden?**
 
+Sie wollen im großen Stil expandieren und suchen nach den optimalen Standorten in einer Region oder deutschlandweit. 
+Mit der GeoSpot! Whitespot-Analyse können Sie sich die für Ihr Unternehmen erfolgreichsten Mikro-Standorte anzeigen lassen und als Basis für Ihre Standortsuche und erfolgreiche Expansion verwenden. 
+Die Anwendung bietet sich an, wenn Sie bisher noch keinen stationären Vertrieb haben und auch dann, wenn Sie das bestehende Filialnetz erweitern möchten. 
+
+Beispiele:
+
+### 1 Ladenlokal
+**Sie haben bisher noch kein Ladenlokal, möchten aber mindestens 5 Standorte innerhalb eines Jahres eröffnen?** 
+
+Neues exklusives Fashion-Label:
+![image](https://github.com/gbconsite/GeoSpot/assets/47481567/8f86c34f-e63b-48cd-ac54-67e0fed4e09f)
+Foto von Clark Street Mercantile auf Unsplash
+
+Für die Expansion müssen Sie sich im Vorfeld Gedanken machen zur Ihrer Wunschlage. Hierzu müssen Sie sich die Frage beantworten, welche Standortfaktoren über den Erfolg meiner Performance entscheiden. 
+Für ein neues exklusives Fashion-Label könnten folgende Standortfaktoren entscheidend sein:
+
+-	Hohe Passantenfrequenz
+-	Hohe Einzelhandelszentralität
+-	Gute Bevölkerungsprognose / Wachstumsgebiet im Einzugsgebiet
+-	Hohe Kaufkraft im Einzugsgebiet
+
+Die Auswertung zeigt mit den gewählten Kriterien wäre in Nürnberg eine geeignete Mikrolage für einen neuen Fashion-Store zu finden.
+
+![image](https://github.com/gbconsite/GeoSpot/assets/47481567/3c31c036-2a3f-4456-99bc-96818445574b)
+
+![image](https://github.com/gbconsite/GeoSpot/assets/47481567/25a50d92-8686-41dd-8896-75a28f057373)
+
+### 2 Filialnetz
+**Sie haben bereits einige Standorte und Filialen und möchten das Filialnetz erfolgreich ausbauen? Die Expansion sollte mindestens 5 neue Standorte pro Jahr umfassen?**
+
+Kosmetik-/Wellness-Studio:
+
+![image](https://github.com/gbconsite/GeoSpot/assets/47481567/5be2d6dd-6454-4c4e-97a5-a9fa3b0a7939)
+
+Foto von Benyamin Bohlouli auf Unsplash
+
+
+Anhand der Performance der bisherigen Standorte, müssen Sie zunächst festlegen, wie die beste Mikrolage für Ihr Unternehmen aussieht. 
+
+-	Lage in Wohngebieten (genügend Einwohner in Mikrolage)
+-	Hohe Kaufkraft
+-	Hohe Einzelhandelszentralität
+-	Affinität für Fitness / Wellness
+-	Alter (18-49 Jahre)
+-	Frauenanteil hoch
+-	Firmenzähler Kosmetik (geringe Wettbewersdichte)
+
+Die Auswertung zeigt in welchem Stadtgebiet von Bochum eine gute Performance zu erwarten wären. Es sollte gezielt in diesem Gebiet nach Ladenlokalen gesucht werden.
+
+![image](https://github.com/gbconsite/GeoSpot/assets/47481567/588e0f0a-7df3-4bf7-9163-f235a796ad99)
