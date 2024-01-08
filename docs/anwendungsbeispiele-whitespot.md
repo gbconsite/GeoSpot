@@ -10,10 +10,10 @@ Wir helfen Ihnen bei der Suche nach Ihrem perfekten Standort. Mit der GeoSpot! W
 Welche Standorte können geprüft werden?
 Es können Standorte unterschiedlicher Branchen geprüft werden. Hier eine Auswahl unserer Kunden und Branchen: Lebensmitteleinzelhandel, Getränkemarkt, Baumarkt, Fitnessstudio, Drogerie, Systemgastronomie, Sonderposten-Fachmarkt, Autozubehör, Garagenpark, Apotheke, Arztpraxis, Optiker, Hörgeräte sowie viele weitere Branchen. 
 
-Übrigens – für Gründer und junge Unternehmen auch aus dem Online-Handel bieten wir ein separates Produkt smartspot an: https://www.smartaxxess.de/smartspot/
+Übrigens – für Gründer und junge Unternehmen auch aus dem Online-Handel bieten wir ein separates Produkt smartspot an: [https://www.smartaxxess.de/smartspot/](https://www.smartaxxess.de/smartspot/).
 
-## Ablauf der Einzelanalysen bei der GeoSpot! Whitespot-Analyse:
- 
+## Ablauf 
+**Ablauf der Einzelanalysen bei der GeoSpot! Whitespot-Analyse**
 Als Kunde entscheiden Sie selbst und wählen die relevanten Standortfaktoren im Vorfeld aus. Gb consite stellt dafür einen Datenkatalog und eine Auswahl an Datenpaketen und Standortadressen bereit, aus denen Sie eine Auswahl treffen. Ihre Auswahl wird dann bei jeder Anmeldung in das GeoSpot! Whitespot-Analyse-Tool hochgeladen.  
 Nach Eingabe der Adresse auf der Kartenseite wählen Sie einen Radius, ein freies Gebiet oder ein Fahrzeitengebiet für die Ermittlung eines Einzugsgebietes aus.
 Nach einer kurzen Berechnungszeit werden die Ergebnisse direkt auf dem Bildschirm angezeigt, alternativ kann auch ein pdf-Dokument erzeugt werden.
