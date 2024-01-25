@@ -4,12 +4,13 @@ description:  Preisübersicht der Whitespot-Analyse
 
 # Preisindikation
 
-**Whitespot-Analyse Erstlizenz 12 Monate mit Daten: Kaufkraft und Einwohnern**
+**Whitespot-Analyse mit Daten: Kaufkraft und Einwohnern**
 
-- 2.990 Euro für einen User mit Daten       FOLGELIZENZ: 1.990 Euro
-- 3.490 Euro für 2 User mit Daten           FOLGELIZENZ: 2.490 Euro
-- 3.990 Euro für 3-5 User mit Daten         FOLGELIZENZ: 2.990 Euro
-
+| **Anzahl User** | **Monats-Lizenz** | **Jahres-Lizenz** | **Folgejahr** |
+|----------------:|------------------:|------------------:|--------------:|
+|               1 |             299 € |           2.990 € |       1.990 € |
+|               2 |             349 € |           3.490 € |       2.490 € |
+|             3-5 |             399 € |           3.990 € |       2.990 € |
 
 Weitere individuelle Datenpakete verfügbar (250 / 500 / 750 € je Paket pro Jahr, Preis je Paket unabhängig von Anzahl der User).
 
