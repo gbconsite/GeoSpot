@@ -21,16 +21,18 @@ description:  Preisübersicht der Regio-Analyse
 |             3-5 |           1.990 € |       1.590 € |             199 € |
 
 
-Weitere individuelle Datenpakete verfügbar (250 / 500 / 750 € je Paket **pro Jahr** bzw. 25 / 50 / 75 € je Paket **pro Monat**, Preis je Paket unabhängig von Anzahl der User).
-
+Weitere individuelle Datenpakete verfügbar. Preis je Paket unabhängig von Anzahl der User.
 
 **Beispiele Datenpakete**
 
-**Basic:** Haushalte, Passantenfrequenz, Einzelhandelsrelevante Kaufkraft: 250 € pro Jahr (25 € pro Monat)
+| **Datenpakete** | **Attribute**                                                                                                | **Jahres-Lizenz** \* | **Monats-Lizenz** \* |
+|:---------------:|--------------------------------------------------------------------------------------------------------------|--------------------:|--------------------:|
+|       **Basic** |                                            Haushalte, Passantenfrequenz,<br>Einzelhandelsrelevante Kaufkraft |               250 € |                25 € |
+|    **Advanced** |                                                      Bevölkerungsentwicklung,<br>Consumer Interests, Bildung |               500 € |                50 € |
+|     **Premium** | Einkommensklassen,<br>sortimentsbezogene Kaufkraft,<br>Demografie in 17 Altersklassen<br>und nach Geschlecht |               750 € |                75 € |
 
-**Advanced:** Bevölkerungsentwicklung, Consumer Interests, Bildung: 500 € pro Jahr (50 € pro Monat)
+\* je Attribut
 
-**Premium:** Einkommensklassen, sortimentsbezogene Kaufkraft, Demografie in 17 Altersklassen und nach Geschlecht: 750 € pro Jahr (75 € pro Monat)
 
 Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellung und Komplexität.
 Gerne kontaktieren Sie uns für ein Angebot, das zu Ihnen passt.
