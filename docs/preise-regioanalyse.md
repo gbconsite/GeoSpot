@@ -21,7 +21,8 @@ description:  Preisübersicht der Regio-Analyse
 |             3-5 |           1.990 € |       1.590 € |             199 € |
 
 
-Weitere individuelle Datenpakete verfügbar. Preis je Paket unabhängig von Anzahl der User.
+Weitere individuelle Datenpakete verfügbar.<br>
+Preis je Paket unabhängig von Anzahl der User.
 
 **Beispiele Datenpakete**
 
@@ -34,7 +35,7 @@ Weitere individuelle Datenpakete verfügbar. Preis je Paket unabhängig von Anza
 \* je Attribut
 
 
-Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellung und Komplexität.
+Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellung und Komplexität.<br>
 Gerne kontaktieren Sie uns für ein Angebot, das zu Ihnen passt.
 
 **Marjana Vollbach<br>
