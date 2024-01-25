@@ -21,6 +21,15 @@ description:  Preisübersicht der Regio-Analyse
 |             3-5 |           1.990 € |       1.590 € |             199 € |
 
 
+Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellung und Komplexität.<br>
+Gerne kontaktieren Sie uns für ein Angebot, das zu Ihnen passt.
+
+
+**Marjana Vollbach<br>
+[marjana.vollbach@gbconsite.de](mailto:marjana.vollbach@gbconsite.de)<br>
+Telefon: +49 89 / 309 052 978**
+
+
 Weitere individuelle Datenpakete verfügbar.<br>
 Preis je Paket unabhängig von Anzahl der User.
 
@@ -33,13 +42,3 @@ Preis je Paket unabhängig von Anzahl der User.
 |     **Premium** | Einkommensklassen,<br>sortimentsbezogene Kaufkraft,<br>Demografie in 17 Altersklassen<br>und nach Geschlecht |               750 € |                75 € |
 
 \* je Attribut
-
-
-Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellung und Komplexität.<br>
-Gerne kontaktieren Sie uns für ein Angebot, das zu Ihnen passt.
-
-**Marjana Vollbach<br>
-[marjana.vollbach@gbconsite.de](mailto:marjana.vollbach@gbconsite.de)<br>
-Telefon: +49 89 / 309 052 978**
-
-
