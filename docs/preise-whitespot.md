@@ -4,7 +4,7 @@ description:  Preisübersicht der Whitespot-Analyse
 
 # Preisindikation
 
-**Whitespot-Analyse mit Daten: Kaufkraft und Einwohnern**
+**Whitespot-Analyse mit Daten: Kaufkraft und Einwohner**
 
 | **Anzahl User** | **Monats-Lizenz** | **Jahres-Lizenz** | **Folgejahr** |
 |----------------:|------------------:|------------------:|--------------:|
