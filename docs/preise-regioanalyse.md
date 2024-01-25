@@ -6,20 +6,19 @@ description:  Preisübersicht der Regio-Analyse
 
 **Regio-Analyse ohne Daten**
 
-| **Anzahl User** | **Jahres-Lizenz** | **Folgejahr** | **Monats-Lizenz** |
-|----------------:|------------------:|--------------:|------------------:|
-|               1 |             890 € |         590 € |              89 € |
-|               2 |           1.290 € |         990 € |             129 € |
-|             3-5 |           1.490 € |       1.190 € |             149 € |
+| **Anzahl User** | **Monats-Lizenz** | **Jahres-Lizenz** | **Folgejahr** |
+|----------------:|------------------:|------------------:|--------------:|
+|               1 |              89 € |             890 € |         590 € |
+|               2 |             129 € |           1.290 € |         990 € |
+|             3-5 |             149 € |           1.490 € |       1.190 € |
 
 **Regio-Analyse mit Daten: Kaufkraft und Einwohner**
 
-| **Anzahl User** | **Jahres-Lizenz** | **Folgejahr** | **Monats-Lizenz** |
-|----------------:|------------------:|--------------:|------------------:|
-|               1 |           1.290 € |         990 € |             129 € |
-|               2 |           1.690 € |       1.290 € |             169 € |
-|             3-5 |           1.990 € |       1.590 € |             199 € |
-
+| **Anzahl User** | **Monats-Lizenz** | **Jahres-Lizenz** | **Folgejahr** |
+|----------------:|------------------:|------------------:|--------------:|
+|               1 |             129 € |           1.290 € |         990 € |
+|               2 |             169 € |           1.690 € |       1.290 € |
+|             3-5 |             199 € |           1.990 € |       1.590 € |
 
 Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellung und Komplexität.<br>
 Gerne kontaktieren Sie uns für ein Angebot, das zu Ihnen passt.
@@ -35,10 +34,10 @@ Preis je Paket unabhängig von Anzahl der User.
 
 **Beispiele Datenpakete**
 
-| **Datenpakete** | **Attribute**                                                                                                | **Jahres-Lizenz** \* | **Monats-Lizenz** \* |
-|:---------------:|--------------------------------------------------------------------------------------------------------------|--------------------:|--------------------:|
-|       **Basic** |                                            Haushalte, Passantenfrequenz,<br>Einzelhandelsrelevante Kaufkraft |               250 € |                25 € |
-|    **Advanced** |                                                      Bevölkerungsentwicklung,<br>Consumer Interests, Bildung |               500 € |                50 € |
-|     **Premium** | Einkommensklassen,<br>sortimentsbezogene Kaufkraft,<br>Demografie in 17 Altersklassen<br>und nach Geschlecht |               750 € |                75 € |
+| **Datenpakete** | **Attribute**                                                                                                | **Monats-Lizenz** \* | **Jahres-Lizenz** \* |
+|:---------------:|--------------------------------------------------------------------------------------------------------------|---------------------:|---------------------:|
+|       **Basic** |                                            Haushalte, Passantenfrequenz,<br>Einzelhandelsrelevante Kaufkraft |                 25 € |                250 € |
+|    **Advanced** |                                                      Bevölkerungsentwicklung,<br>Consumer Interests, Bildung |                 50 € |                500 € |
+|     **Premium** | Einkommensklassen,<br>sortimentsbezogene Kaufkraft,<br>Demografie in 17 Altersklassen<br>und nach Geschlecht |                 75 € |                750 € |
 
 \* je Attribut
