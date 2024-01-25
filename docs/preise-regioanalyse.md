@@ -4,25 +4,27 @@ description:  Preisübersicht der Regio-Analyse
 
 # Preisindikation
 
-**Regio-Analyse Erstlizenz für ein Jahr ohne Daten**
+**Regio-Analyse ohne Daten**
 
-- 890 € für einen User ohne Daten; FOLGELIZENZ 590 € (Monats-Lizenz: 89 €)
-- 1.290 € für 2 User ohne Daten; FOLGELIZENZ 990 € (Monats-Lizenz: 129 €)
-- 1.490 € für 3-5 User ohne Daten; FOLGELIZENZ 1.190 € (Monats-Lizenz: 149 €)
+| **Anzahl User** | **Jahres-Lizenz** | **Folgejahr** | **Monats-Lizenz** |
+|-----------------|-------------------|---------------|-------------------|
+|               1 |             890 € |         590 € |              89 € |
+|               2 |           1.290 € |         990 € |             129 € |
+|             3-5 |           1.490 € |       1.190 € |             149 € |
 
+**Regio-Analyse mit Daten: Kaufkraft und Einwohner**
 
-**Regio-Analyse Erstlizenz für ein Jahr mit Daten: Kaufkraft und Einwohnern**
-
-- 1.290 € für einen User mit Daten; FOLGELIZENZ 990 € (Monats-Lizenz: 129 €)
-- 1.690 € für 2 User mit Daten; FOLGELIZENZ 1.290 € (Monats-Lizenz: 169 €)
-- 1.990 € für 3-5 User mit Daten; FOLGELIZENZ 1.590 € (Monats-Lizenz: 199 €)
-
+| **Anzahl User** | **Jahres-Lizenz** | **Folgejahr** | **Monats-Lizenz** |
+|-----------------|-------------------|---------------|-------------------|
+|               1 |           1.290 € |         990 € |             129 € |
+|               2 |           1.690 € |       1.290 € |             169 € |
+|             3-5 |           1.990 € |       1.590 € |             199 € |
 
 
 Weitere individuelle Datenpakete verfügbar (250 / 500 / 750 € je Paket **pro Jahr** bzw. 25 / 50 / 75 € je Paket **pro Monat**, Preis je Paket unabhängig von Anzahl der User).
 
 
-Beispiele Datenpakete:
+**Beispiele Datenpakete**
 
 **Basic:** Haushalte, Passantenfrequenz, Einzelhandelsrelevante Kaufkraft: 250 € pro Jahr (25 € pro Monat)
 
