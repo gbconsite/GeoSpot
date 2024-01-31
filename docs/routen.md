@@ -342,7 +342,7 @@ Als Bild:
 | **street**          | **Required alt. 1** Straße (kann auch die Hausnummer beinhalten)                                                                     | string                      |
 | **houseNumber**     | **Optional alt. 1** Hausnummer                                                                                                       | string                      |
 | **country**         | **Optional alt. 1** Land                                                                                                             | string                      |
-| **address**         | **Required alt.2** (kann mit alt 1 kombiniert werden) kompletter Adressstring                                                        | string                      |
+| **address**         | **Required alt. 2** (kann mit alt. 1 kombiniert werden) kompletter Adressstring                                                        | string                      |
 | **countryCode**     | **Optional alt. 1/2** Land ISO 3166-1 alpha-3 (DEU)                                                                                  | string                      |
 | **grid200**         | **Optional** Die Werte (nicht Scores oder Bild) werden in einem 200x200 Meter Raster ermittelt statt 600x600. (sinnvoll bei kleinem Radius bzw wenig Minuten. |  true  oder false (default) |
 | **all_layers**      | **Optional** Alle System Layers                                                                                                      | true oder false (default)   |
