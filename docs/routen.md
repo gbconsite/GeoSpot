@@ -344,7 +344,8 @@ Als Bild:
 | **country**         | **Optional alt. 1** Land                                                                                                             | string                      |
 | **address**         | **Required alt. 2** (kann mit alt. 1 kombiniert werden) kompletter Adressstring                                                        | string                      |
 | **countryCode**     | **Optional alt. 1/2** Land ISO 3166-1 alpha-3 (DEU)                                                                                  | string                      |
-| **grid200**         | **Optional** Die Werte (nicht Scores oder Bild) werden in einem 200x200 Meter Raster ermittelt statt 600x600. (sinnvoll bei kleinem Radius bzw wenig Minuten. |  true  oder false (default) |
+| **grid200**         | **Optional** Die Werte (nicht Scores oder Bild) werden in einem 200x200 Meter Raster ermittelt statt 600x600. (sinnvoll bei kleinem Radius bzw. wenig Minuten. |  true  oder false (default) |
+| **value_filter**    | **Optional** Filtern der ausgegebenen Daten-Variablen ("values"). Verfügbare Daten-Variablen sind abfragbar mit [available_values.json](1-abfrage-welche-werte-zur-verfügung-stehen). Dringend empfohlen bei großem Umfang von Daten-Variablen. Beschleunigt Abfrage.   | Komma Liste                 |
 | **all_layers**      | **Optional** Alle System Layers                                                                                                      | true oder false (default)   |
 | **layer_ids**       | **Optional** System Layers mit Ids                                                                                                   | Komma Liste                 |
 | **layer_names**     | **Optional** System Layers mit Namen                                                                                                 | Komma Liste                 |
