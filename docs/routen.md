@@ -361,7 +361,7 @@ Alternative 1: Es muss mindestens 1 Wert angegeben sein.
 |---------------------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
 | **include_cells**   | **Optional** Zellen werden angezeigt                                                                                                 |  true  oder false (default) |
 | **transparent**     | **Optional** Transparentz für die Zellen                                                                                             |  float 0.0 -1.0             |
-| **filter**         | **Optional** Damit kann man Steuern welche die Scores verwendet werden. Bsp. filter[ew]=5,10 oder filter[ew]=5,10,true- Parameter include_cells wird automatisch auf true gesetzt |  min,max(,reverse)          |
+| **filter**         | **Optional** Damit wird gesteuert, welche Scores in welchem Wertebereich verwendet werden. Bsp. filter[ew]=5,10 oder filter[ew]=5,10,true- Parameter include_cells wird automatisch auf true gesetzt |  min,max(,reverse)          |
 
 <https://www.geospot.de/api/whitespot_location.png?lat=48.27679550566659&lon=11.574096679687498&radius=3000&filter[ew]=6,10&transparent=0.5>
 
