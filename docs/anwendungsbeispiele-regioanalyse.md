@@ -1,9 +1,29 @@
 ---
-description: Anwendungsbeispiele der Regio-Analyse in der Praxis
+description: Mit der Regio-Analyse räumliche Erkenntnisse für die Expansionsplanung gewinnen
 ---
+
+Bevor man mit der Expansion startet, möchte man Erkenntnisse über Gebiete gewinnen, die zu den eigenen Geschäftsanforderungen passen. Befindet man sich außerhalb von Metropolen reicht der Blick auf eine Auswertung auf Postleitzahlen-Ebene oder Gemeinde-Ebene, die die GeoSpot! Regio-Analyse bietet.
 
 # Anwendungsbeispiele
 
-## 1
+## 1 Beispiel: Baumarkt Expansion im ländlichen Raum – außerhalb von Metropolen
 
-## 2
+![image](https://github.com/gbconsite/GeoSpot/assets/47481567/056cfb5c-1c5e-47fa-9063-7135d42d0a09)
+Foto von Dennis Siqueira auf Unsplash
+
+- Kennzahlen: Einwohner überdurchschnittlich, Eigentümerquote (Haus+Wohnungen) überdurchschnittlich, Wettbewerbsdichte Baumärkte unterdurchschnittlich
+- Wettbewerb: Baumärkte
+- Ergebnis:  deutschlandweite Kartenübersicht hier der Ausschnitt Großraum Bremen
+
+![image](https://github.com/gbconsite/GeoSpot/assets/47481567/a193ca1d-f99a-49ab-b357-b6b362a425c4)
+
+## 2 Beispiel: Fitness-Studio in Klein- und Mittelstädten
+
+![image](https://github.com/gbconsite/GeoSpot/assets/47481567/ef2a6791-ce38-4bc2-bdf7-cb11e662fabc)
+Foto von gina lin auf Unsplash
+
+- Kennzahlen: Einwohner überdurchschnittlich, Bevölkerungsprognose positiv, Einwohnerklasse: 15-59 Jahre überdurchschnittlich
+- Wettbewerb: Adressen Fitnessstudios
+- Ergebnis:  deutschlandweite Kartenübersicht hier der Ausschnitt Großraum Münster
+
+![image](https://github.com/gbconsite/GeoSpot/assets/47481567/ababe7e3-75d9-45e3-8928-b933a349aeb9)
