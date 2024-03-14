@@ -3,7 +3,7 @@ title: Expansionsplanung mit der GeoSpot! Regio-Analyse
 description: Mit der GeoSpot! Regio-Analyse optimale Gebiete für die Expansion finden. Welche Region hat das größte Potenzial meiner Zielgruppe? Anwendungsbeispiele aus der Praxis.
 ---
 
-Vor der Expansion möchte man Erkenntnisse über Gebiete gewinnen, die zu den eigenen Geschäftsanforderungen passen. Befindet man sich außerhalb von Metropolen reicht der Blick auf eine Auswertung auf Postleitzahlen-Ebene oder Gemeinde-Ebene, die die GeoSpot! Regio-Analyse bietet.
+Vor der Expansion möchte man Erkenntnisse über Gebiete gewinnen, die zu den eigenen Geschäftsanforderungen passen. Befindet man sich außerhalb von Metropolen reicht der Blick auf eine Auswertung auf Postleitzahl-Ebene oder Gemeinde-Ebene, die die GeoSpot! Regio-Analyse bietet.
 
 # Anwendungsbeispiele
 
