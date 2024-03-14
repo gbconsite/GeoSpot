@@ -1,5 +1,6 @@
 ---
-description: Einleitung und Aufbau der Regio-Analyse zur Nutzung in der Gebietsanalyse
+title: GeoSpot! Regio-Analyse für die Suche nach Potenzial im Vertrieb
+description: Beobachten Sie mit der GeoSpot! Regio-Analyse Ihre Verkaufszahlen und viele weitere Merkmale auf der Landkarte, optimieren den Flächen-Vertrieb und entdecken ungenutzte Potenziale.
 ---
 
 # Übersicht
