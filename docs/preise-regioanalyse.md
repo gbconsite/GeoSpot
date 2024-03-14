@@ -1,5 +1,6 @@
 ---
-description:  Preisübersicht der Regio-Analyse
+title: Was kostet die GeoSpot! Regio-Analyse?
+description:  Die GeoSpot! Regio-Analyse wird einfach im Browser ausgeführt, die Preise richten sich nach der Nutzungsdauer, der Anzahl der Benutzer und den lizenzierten Daten.
 ---
 
 # Preisindikation
