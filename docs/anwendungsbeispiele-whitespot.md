@@ -1,5 +1,6 @@
 ---
-description: Anwendungsbeispiele des Whitespot-Analysetools in der Praxis
+title: Standortplanung mit der GeoSpot! Whitespot-Analyse
+description: Mit der GeoSpot! Whitespot-Analyse optimale Standorte für die Expansion finden. Welcher Standort hat das größte Potenzial meiner Zielgruppe? Anwendungsbeispiele aus der Praxis.
 ---
 # Standortanalyse für Franchise-Systeme, filialisierten Einzelhandel und Immobilienunternehmen
 
