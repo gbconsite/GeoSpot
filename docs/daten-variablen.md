@@ -1,6 +1,6 @@
 ---
 title: GeoSpot! API mit über 600 Daten-Variablen
-description: Liste der über 600 Variablen der GeoSpot! API
+description: Liste der über 600 Variablen der GeoSpot! API. Anfrage für jeden Punkt in Deutschland über Kreis oder Einzugsgebiet möglich.
 ---
 # Daten-Variablen 
 
