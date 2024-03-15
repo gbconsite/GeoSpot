@@ -1,3 +1,8 @@
+---
+title: Technische Dokumentation der GeoSpot! API
+description: Routen und Endpunkte der GeoSpot! API. Technische Dokumentation. Anwendungsbeispiele für die Praxis.
+---
+
 # Routen & Endpunkte 
 
 ## Authentifizierung 
