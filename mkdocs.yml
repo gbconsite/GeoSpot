@@ -27,6 +27,7 @@ nav:
     - API:
       - GeoSpot! API: api-intro.md
       - Routen & Endpunkte: routen.md
+      - Daten-Variablen: daten-variablen.md
     - Impressum: impressum.md
     - Datenschutz: datenschutz.md
 
