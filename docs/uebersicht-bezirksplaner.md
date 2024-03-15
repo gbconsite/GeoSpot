@@ -1,5 +1,6 @@
 ---
-description: Aufbau und Erklärung zum Bezirksplaner bzw. Gebietsplaner für die Planung von Vertriebsgebieten
+title: GeoSpot! Bezirksplaner für die Gebietsplanung Ihrer Vertriebsgebiete
+description: Außendienst optimieren durch intelligente Gebietsplanung: Mit dem GeoSpot! Bezirksplaner planen Sie Vertriebsgebiete auf Basis von Umsatz, Besuchen, Fahrzeit oder Kundenanzahl.
 ---
 
 # Übersicht
