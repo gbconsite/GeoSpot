@@ -1,5 +1,6 @@
 ---
-description: Einleitung und Aufbau der Whitespot-Analyse für die Nutzung in der Expansion und Standortanalyse
+title: GeoSpot! Whitespot-Analyse für die Suche nach optimalen Standorten
+description: Finden Sie mit der GeoSpot! Whitespot-Analyse smart und on demand die idealen Standorte für Ihr Unternehmen. So geht zielgerichtete und erfolgreiche Expansion.
 ---
 
 # Übersicht 
