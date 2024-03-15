@@ -1,5 +1,6 @@
 ---
-description:  Preisübersicht der Whitespot-Analyse
+title: Was kostet die GeoSpot! Whitespot-Analyse?
+description:  Die GeoSpot! Whitespot-Analyse wird einfach im Browser ausgeführt, die Preise richten sich nach der Nutzungsdauer, der Anzahl der Benutzer und den lizenzierten Daten.
 ---
 
 # Preisindikation
