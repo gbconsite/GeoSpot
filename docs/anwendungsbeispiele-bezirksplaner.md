@@ -1,6 +1,6 @@
 ---
-title: Bezirke einfach planen
-description: Anwendungsbeispiele des Bezirksplaners in der Praxis
+title: Gebietsplanung mit dem GeoSpot! Bezirksplaner
+description: Mit dem GeoSpot! Bezirksplaner Vertriebsgebiete optimal planen. Gerechte und sinnvolle Aufteilung der Potenziale auf den Außendienst. Anwendungsbeispiele aus der Praxis.
 ---
 
 # Anwendungsbeispiele
