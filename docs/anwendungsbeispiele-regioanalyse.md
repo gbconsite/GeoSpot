@@ -3,7 +3,7 @@ title: Expansionsplanung mit der GeoSpot! Regio-Analyse
 description: Mit der GeoSpot! Regio-Analyse optimale Gebiete für die Expansion finden. Welche Region hat das größte Potenzial meiner Zielgruppe? Anwendungsbeispiele aus der Praxis.
 ---
 
-Vor der Expansion möchte man Erkenntnisse über Gebiete gewinnen, die zu den eigenen Geschäftsanforderungen passen. Befindet man sich außerhalb von Metropolen reicht der Blick auf eine Auswertung auf Postleitzahl-Ebene oder Gemeinde-Ebene, die die GeoSpot! Regio-Analyse bietet.
+Vor der Expansion ist es wichtig, Erkenntnisse über Gebiete zu gewinnen, die zu den eigenen Geschäftsanforderungen passen. Wenn man sich außerhalb von Metropolen befindet, reicht der Blick auf eine Auswertung auf Postleitzahl-Ebene oder Gemeinde-Ebene, die die GeoSpot! Regio-Analyse bietet.
 
 # Anwendungsbeispiele
 
@@ -25,6 +25,6 @@ Foto von gina lin auf Unsplash
 
 - Kennzahlen: Einwohner überdurchschnittlich, Bevölkerungsprognose positiv, Einwohnerklasse: 15-59 Jahre überdurchschnittlich
 - Wettbewerb: Adressen Fitnessstudios
-- Ergebnis:  deutschlandweite Kartenübersicht hier der Ausschnitt Großraum Münster
+- Ergebnis: deutschlandweite Kartenübersicht hier der Ausschnitt Großraum Münster
 
 ![Fitness-Studio-Ergebnisse](https://github.com/gbconsite/GeoSpot/assets/47481567/ababe7e3-75d9-45e3-8928-b933a349aeb9)
