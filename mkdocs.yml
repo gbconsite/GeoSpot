@@ -24,6 +24,8 @@ nav:
       - Bearbeiten von Belegungen: bearbeiten-belegungen-mediaplaner.md
       - Datenimport: datenimport-mediaplaner.md
       - Preise: preise-mediaplaner.md
+    - Blog:
+      - blog/index.md
     - API:
       - GeoSpot! API: api-intro.md
       - Routen & Endpunkte: routen.md
@@ -107,6 +109,7 @@ plugins:
   - search:
       lang: de
   - glightbox
+  - blog
   - social
 
 #extra:
