@@ -3,7 +3,7 @@
 ## Kontakt und Support für GeoSpot!
 
 
-**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**|
+**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**
 
 
 **Kontaktieren Sie uns für Ihre kostenlose Demoversion! 
