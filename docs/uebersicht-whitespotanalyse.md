@@ -17,6 +17,6 @@ Die Whitespot-Analyse ist die Geomarketing-Software, die Erfolgspotenziale für 
 
 Bei Fragen wenden Sie sich an:
 
-**Marjana Vollbach<br>
-[marjana.vollbach@gbconsite.de](mailto:marjana.vollbach@gbconsite.de)<br>
-Telefon: +49 89 / 309 052 978**
+**Alina Erke<br>
+[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>
+Telefon: +49 89 / 309 052 975**
