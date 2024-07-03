@@ -17,9 +17,9 @@ Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellu
 Gerne kontaktieren Sie uns für ein Angebot, das zu Ihnen passt.
 
 
-**Marjana Vollbach<br>
-[marjana.vollbach@gbconsite.de](mailto:marjana.vollbach@gbconsite.de)<br>
-Telefon: +49 89 / 309 052 978**
+**Alina Erke<br>
+[alina.erke@gbconsite.de](mailto:alina.erkeh@gbconsite.de)<br>
+Telefon: +49 89 / 309 052 975**
 
 
 Weitere individuelle Datenpakete verfügbar.<br>
