@@ -16,7 +16,7 @@ Das Tool ist besonders spannend für Unternehmen, die deutschlandweit oder regio
 Bei Fragen wenden Sie sich an:
 
 **Alina Erke<br>
-[alina.erkeh@gbconsite.de](mailto:alina.erkeh@gbconsite.de)<br>
+[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>
 Telefon: +49 89 / 309 052 975**
 
 
