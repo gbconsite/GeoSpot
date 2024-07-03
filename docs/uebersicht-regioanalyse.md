@@ -15,8 +15,8 @@ Das Tool ist besonders spannend für Unternehmen, die deutschlandweit oder regio
 
 Bei Fragen wenden Sie sich an:
 
-**Marjana Vollbach<br>
-[marjana.Vollbach@gbconsite.de](mailto:marjana.vollbach@gbconsite.de)<br>
-Telefon: +49 89 / 309 052 978**
+**Alina Erke<br>
+[alina.erkeh@gbconsite.de](mailto:alina.erkeh@gbconsite.de)<br>
+Telefon: +49 89 / 309 052 975**
 
 
