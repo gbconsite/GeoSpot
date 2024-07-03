@@ -2,9 +2,8 @@
 
 ## Kontakt und Support für GeoSpot!
 
-|Whitespot-Analyse, Bezirksplaner, Regio-Analyse|Mediaplaner|
-|---|---|
-|**Marjana Vollbach<br>[marjana.vollbach@gbconsite.de](mailto:marjana.vollbach@gbconsite.de)<br>Telefon: +49 89 / 309 052 978**|**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**|
+
+**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**|
 
 
 **Kontaktieren Sie uns für Ihre kostenlose Demoversion! 
