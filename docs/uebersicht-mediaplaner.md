@@ -1,15 +1,14 @@
 ---
-description: Einleitung und Aufbau des Mediaplaners für die Verlage zur Planung von Belegungseinheiten und weiteren Gebieten
+description: Eine detaillierte Anleitung zur Nutzung des Mediaplaners für Verlage zur effizienten Planung von Belegungseinheiten und Zielgebietsanalysen.
 ---
 
-# Übersicht
+# Übersicht zum Mediaplaner für Verlage
 
-Auf Basis Ihrer eigenen Gebietseinheiten (bspw. Trägerbezirke, Belegungseinheiten, Touren etc.) finden Analysen und Planungen statt.
+Mit dem Mediaplaner können Verlage ihre eigenen Gebietseinheiten wie Trägerbezirke, Belegungseinheiten, Ausgaben oder Touren effizient analysieren und planen. Das Tool ermöglicht die Erstellung präziser Zielgruppen-Profile für Beilagenkunden und liefert auf Knopfdruck detaillierte Informationen darüber, wie viele und welche Ihrer Gebietseinheiten der Kunden-Zielgruppe entsprechen und wo diese sich befinden. Zusätzlich werden die aktuellen Auflagen aus den relevanten Bezirken summiert angezeigt. Das finale Ergebnis können Sie zudem als Karte Ihren Kunden präsentieren.
+Besonders wertvoll in Kombination mit [MultiRoute Go!](https://go.multiroute.de/).
 
-Für Ihre Beilagenkunden können Sie so Zielgruppen-Profile erstellen und auf Knopfdruck die Zahlen liefern, wie viele Ihrer Gebietseinheiten der Kunden-Zielgruppe entsprechen und wo sich diese befinden. Dazu ergänzt werden Ihre aktuellen Auflagen aus diesen Bezirken aufsummiert angezeigt. Und zu guter Letzt können Sie natürlich auch das Ergebnis als Karte an Ihren Kunden weitergeben. 
+## Kontakt bei Fragen
 
-Bei Fragen wenden Sie sich an:
-
-**Alina Erke<br>
-[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>
-Telefon: +49 89 / 309 052 975**
+**Alina Erke**  
+[E-Mail: alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)  
+Telefon: +49 89 / 309 052 975
