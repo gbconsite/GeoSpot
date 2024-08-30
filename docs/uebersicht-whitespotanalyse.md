@@ -7,7 +7,7 @@ description: Finden Sie mit der GeoSpot! Whitespot-Analyse smart und on demand d
 
 Mit der GeoSpot! Whitespot-Analyse können digitale Karten angezeigt und räumliche Analysen auf Mikroebene ausgeführt werden.
 
-Die Software gibt Klarheit über ein bestehendes Filialnetz, eignet sich aber auch für eine komplette Neuplanung und Erweiterung eines Filialnetzes. Konkret erhält man für eine Adresse die Erfolgsfaktoren eines Standortes und Informationen wie die Zielgruppe sich jeweils räumlich verteilt.
+Die Whitespot-Analyse gibt Klarheit über ein bestehendes Filialnetz, eignet sich aber auch für eine komplette Neuplanung und Erweiterung eines Filialnetzes. Konkret erhält man für eine Adresse die Erfolgsfaktoren eines Standortes und Informationen wie die Zielgruppe sich jeweils räumlich verteilt.
 
 Herzstück des Tools bildet die Einzugsgebietsanalyse: Man kann entweder einen Radius, eine Fahrzeit (MIV) oder ein freies Gebiet bilden und erhält in dem gewählten Segment eine soziodemographische Auswertung und Informationen zu potenziellen Mitwettbewerbern.
 
