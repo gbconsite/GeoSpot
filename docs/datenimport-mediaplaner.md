@@ -33,7 +33,7 @@ Nun müssen Sie die Felder zuordnen. Wählen Sie für die Ebene Ihrer Grundlagen
 
 Über das Symbol :material-folder-open: oben links in der Karte gelangen Sie zu einer Dateiauswahl, mit der Sie z.B. Filialstandorte eines Kunden als zusätzliche Punkt-Layer einbinden können. Dies können Sie temporär für sich oder auch dauerhaft für alle anderen Nutzer Ihres Unternehmens tun.
 
-Es werden die Geodatenformate geojson und kml unterstützt. Diese Formate können Sie z.B. mit dem kostenlosen Programm „Google Earth Professional“ erzeugen, indem Sie dort Adresslisten kochladen, diese geokodieren und anschließend als kml-Datei abspeichern.
+Es werden csv-Dateien sowie Excel-Dateien und die Geodatenformate geojson und kml unterstützt. Diese Formate können Sie z.B. mit dem kostenlosen Programm „Google Earth Professional“ erzeugen, indem Sie dort Adresslisten kochladen, diese geokodieren und anschließend als kml-Datei abspeichern.
 
 ![grafik](https://user-images.githubusercontent.com/99329016/230028371-c7c9469b-7d5f-45f6-a9ce-f9719e5605f1.png)
 ![grafik](https://user-images.githubusercontent.com/99329016/230028389-45fe3520-10d7-4a3e-a2c1-ad2eba76f70a.png)
