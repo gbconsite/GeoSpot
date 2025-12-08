@@ -15,7 +15,7 @@ Es können Standorte unterschiedlicher Branchen geprüft werden. Hier eine Auswa
 
 ## Ablauf 
 **Ablauf der Einzelanalysen bei der GeoSpot! Whitespot-Analyse**
-Als Kunde entscheiden Sie selbst und wählen die relevanten Standortfaktoren im Vorfeld aus. Gb consite stellt dafür einen Datenkatalog und eine Auswahl an Datenpaketen und Standortadressen bereit, aus denen Sie eine Auswahl treffen. Ihre Auswahl wird dann bei jeder Anmeldung in das GeoSpot! Whitespot-Analyse-Tool hochgeladen.  
+Als Kunde entscheiden Sie selbst und wählen die relevanten Standortfaktoren im Vorfeld aus. gb consite stellt dafür einen Datenkatalog und eine Auswahl an Datenpaketen und Standortadressen bereit, aus denen Sie eine Auswahl treffen. Ihre Auswahl wird dann bei jeder Anmeldung in das GeoSpot! Whitespot-Analyse-Tool hochgeladen.  
 Nach Eingabe der Adresse auf der Kartenseite wählen Sie einen Radius, ein freies Gebiet oder ein Fahrzeitengebiet für die Ermittlung eines Einzugsgebietes aus.
 Nach einer kurzen Berechnungszeit werden die Ergebnisse direkt auf dem Bildschirm angezeigt, alternativ kann auch ein pdf-Dokument erzeugt werden.
 Die Ergebnisdarstellung beinhaltet Karten, Kennzahlen (absolut oder als Index) sowie eine Auswertung eines Scoringmodells – die Ergebnisse helfen Ihnen dabei den Standort zu bewerten. 
