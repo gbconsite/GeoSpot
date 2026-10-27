@@ -263,6 +263,22 @@
   }
 }
 
+
+
+    /* Make the home-page Demo CTA readable on the light background. */
+    .tx-hero .md-button:not(.login) {
+        background-color: #484c5a;
+        border-color: #484c5a;
+        color: #fff;
+    }
+
+    .tx-hero .md-button:not(.login):focus,
+    .tx-hero .md-button:not(.login):hover {
+        background-color: #363943;
+        border-color: #363943;
+        color: #fff;
+    }
+
 </style>
 
 <!-- Main site Entry button descriptions -->
@@ -276,8 +292,8 @@
           <h1> GeoSpot! </h1>
           <h2> Geomarketing-Plattform </h2>
           <p> Das Online-Geoinformationssystem für Standortplanung, Expansion, Marketing, Vertrieb und Verkauf</p>
-          <a href="/users/sign_in" title="Login" class="md-button login">LOGIN</a>
-          <a href="impressum/" title="Login" class="md-button">Demo anfragen</a>
+          <a href="https://www.geospot.de/users/sign_in" title="Login" class="md-button login">LOGIN</a>
+          <a href="{{ 'impressum/' | url }}" title="Demo anfragen" class="md-button">Demo anfragen</a>
         </div>
         <div class="tx-hero__image3">
             <img src="assets/standortplanung.svg" draggable="false">
@@ -292,7 +308,7 @@
         <h2>
             <i class="fa fa-search-plus" aria-hidden="true"></i> Whitespot-Analyse
         </h2>
-        <p>Per Mausklick zum idealen Standort: Mit der White Spot Analyse können Unternehmen endlich auch online nach dem idealen Standort suchen.<br><b><a href="api-intro/" ><i class="fa fa-external-link" aria-hidden="true"></i> API-Dokumentation</a></b></p>
+        <p>Per Mausklick zum idealen Standort: Mit der White Spot Analyse können Unternehmen endlich auch online nach dem idealen Standort suchen.<br><b><a href="{{ 'api-intro/' | url }}" ><i class="fa fa-external-link" aria-hidden="true"></i> API-Dokumentation</a></b></p>
     </div>
     <div class="feature-item">
         <h2>

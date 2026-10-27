@@ -6,7 +6,7 @@ description: Die verschiedenen Möglichkeiten des Datenimports beim Mediaplaner
 
 Es gibt drei Möglichkeiten des Datenimports:
 
-1.	Import eigener Sachdaten (z.B. Abonnenten-Zahlen) mit Referenz zu den Grundlage-Gebieten (in diesem Beispiel Touren), siehe dazu auch [Grundlagen der Belegungsplanung](https://www.geospot.de/handbuch/grundlagen-planungen-mediaplaner/#grundlagen-der-belegungsplanung).
+1.	Import eigener Sachdaten (z.B. Abonnenten-Zahlen) mit Referenz zu den Grundlage-Gebieten (in diesem Beispiel Touren), siehe dazu auch [Grundlagen der Belegungsplanung](grundlagen-planungen-mediaplaner.md#grundlagen-der-belegungsplanung).
 2.	Import von Belegungen
 3.	Import von Filialstandorten als eigene Karten-Layer
 
@@ -21,7 +21,7 @@ Diese Daten sind anschließend für alle Analysearten verfügbar.
 
 ![grafik](https://user-images.githubusercontent.com/99329016/230027882-c3c65518-87a1-4e31-b0a4-31b3b75e35ab.png)
 
-Wählen Sie entweder eine bestehende Planung aus oder legen Sie vorher eine neue Planung an und wählen diese dann aus (siehe hierzu auch [Planungen anlegen und verwalten](https://www.geospot.de/handbuch/grundlagen-planungen-mediaplaner/#planungen-anlegen-und-verwalten)).
+Wählen Sie entweder eine bestehende Planung aus oder legen Sie vorher eine neue Planung an und wählen diese dann aus (siehe hierzu auch [Planungen anlegen und verwalten](grundlagen-planungen-mediaplaner.md#planungen-anlegen-und-verwalten)).
 Anschließend wählen Sie eine hochzuladende Excel-Datei über Datei auswählen und klicken dann *Upload analysieren*:
 
 ![grafik](https://user-images.githubusercontent.com/99329016/230027997-17d4762a-a033-4072-be97-53337f489b02.png)
@@ -42,7 +42,7 @@ Es werden csv-Dateien sowie Excel-Dateien und die Geodatenformate geojson und km
 Nach dem Hochladen (in diesem Beispiel einer kml-Datei) sehen Sie die Standorte auf der Karte und klicken einen beliebigen davon an.
 Es öffnet sich ein Menü, mit dem Sie die Symbole und die Farben der Icons verändern und den Layer entweder wieder löschen (Klick auf :material-trash-can:) oder speichern können.
 
-Nach der Bearbeitung und dem Klick auf Layer Speichern ist dieser Layer für Sie und andere Nutzer auch in der Layersteuerung (siehe [Das Kartenfenster](https://www.geospot.de/handbuch/aufbau-mediaplaner/#das-kartenfenster)) auswählbar.
+Nach der Bearbeitung und dem Klick auf Layer Speichern ist dieser Layer für Sie und andere Nutzer auch in der Layersteuerung (siehe [Das Kartenfenster](aufbau-mediaplaner.md#das-kartenfenster)) auswählbar.
 Über das Menü *Administration -> Eigene Layer* können Sie diesen und weitere selbst hoch geladene Layer dann auch in Zukunft verwalten:
 
  ![grafik](https://user-images.githubusercontent.com/99329016/230028520-52213041-6ed2-4876-b8d6-68f21706809c.png)

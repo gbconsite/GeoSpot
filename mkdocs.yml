@@ -35,6 +35,7 @@ nav:
 
 theme:
   name: material
+  variant: modern
   custom_dir: docs/theme_override_home/
   # 404 page
   static_templates:
@@ -43,11 +44,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
+      primary: indigo
+      accent: red
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)" 
       scheme: slate
+      primary: blue
+      accent: red
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -110,7 +115,9 @@ plugins:
       lang: de
   - glightbox
   - blog
-  - social
+  - social:
+      cards_layout_options:
+        font_family: Roboto
   
 extra:
   social:
